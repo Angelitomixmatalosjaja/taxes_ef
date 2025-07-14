@@ -1,0 +1,1501 @@
+factura_id,pais,mes_emision,tipo_gasto,monto_total_mxn,iva_solicitado,estatus_reembolso,dias_respuesta_sat,comentario_rechazo
+1,Brasil,Dec-2024,Material,42399.07,6783.85,En proceso,,
+2,México,May-2025,Vuelos,37373.25,5979.72,Aprobado,44.0,
+3,Brasil,May-2025,Publicidad,38282.52,6125.2,Aprobado,72.0,
+4,Brasil,Oct-2024,Renta,56624.08,9059.85,Rechazado,8.0,Error en el RFC
+5,México,May-2025,Alimentos,47226.96,7556.31,Aprobado,66.0,
+6,México,Mar-2025,Publicidad,10292.4,1646.78,Rechazado,17.0,Error en el RFC
+7,Brasil,Dec-2024,Renta,22807.9,3649.26,Rechazado,27.0,Gasto no deducible
+8,Colombia,Apr-2025,Material,27817.44,4450.79,Rechazado,23.0,Falta XML válido
+9,Brasil,Aug-2024,Vuelos,25569.81,4091.17,Aprobado,48.0,
+10,Brasil,May-2025,Vuelos,41150.59,6584.09,Aprobado,89.0,
+11,Brasil,May-2024,Vuelos,53837.91,8614.07,Aprobado,21.0,
+12,Brasil,Apr-2025,Material,20444.93,3271.19,Aprobado,43.0,
+13,México,Jun-2024,Renta,34457.0,5513.12,Rechazado,11.0,Falta XML válido
+14,Brasil,Aug-2024,Material,47996.34,7679.41,Rechazado,15.0,Falta XML válido
+15,Colombia,Jun-2025,Vuelos,26724.43,4275.91,Rechazado,35.0,Error en el RFC
+16,México,Dec-2024,Publicidad,12582.73,2013.24,En proceso,,
+17,Colombia,Mar-2025,Alimentos,30072.21,4811.55,Rechazado,33.0,Factura duplicada
+18,Colombia,Sep-2024,Material,6147.68,983.63,Aprobado,71.0,
+19,Colombia,Jan-2025,Material,56715.86,9074.54,Aprobado,22.0,
+20,Colombia,Mar-2025,Renta,7264.81,1162.37,Rechazado,35.0,Error en el RFC
+21,México,Oct-2024,Renta,27992.03,4478.72,Aprobado,11.0,
+22,México,Apr-2025,Material,33203.23,5312.52,Aprobado,24.0,
+23,Colombia,Jul-2024,Vuelos,59162.32,9465.97,Aprobado,66.0,
+24,Colombia,May-2025,Alimentos,12463.24,1994.12,Rechazado,15.0,Factura duplicada
+25,México,Jul-2024,Renta,9522.6,1523.62,Aprobado,43.0,
+26,México,Feb-2025,Vuelos,3496.25,559.4,Rechazado,43.0,Monto incorrecto
+27,México,Mar-2025,Publicidad,11867.57,1898.81,Rechazado,8.0,Error en el RFC
+28,Brasil,Jul-2024,Renta,14814.56,2370.33,Aprobado,84.0,
+29,Brasil,Sep-2024,Vuelos,38943.11,6230.9,Aprobado,38.0,
+30,Brasil,Apr-2025,Vuelos,15523.29,2483.73,Aprobado,75.0,
+31,Colombia,Aug-2024,Alimentos,4169.69,667.15,Rechazado,20.0,Error en el RFC
+32,Brasil,Jun-2025,Alimentos,50117.25,8018.76,Rechazado,43.0,Error en el RFC
+33,Colombia,Jun-2025,Publicidad,23838.95,3814.23,En proceso,,
+34,Colombia,Jul-2024,Vuelos,23160.71,3705.71,Aprobado,86.0,
+35,Brasil,Mar-2024,Vuelos,20241.3,3238.61,Aprobado,46.0,
+36,Colombia,Jun-2025,Alimentos,58596.28,9375.4,Aprobado,30.0,
+37,Brasil,Oct-2024,Renta,12696.58,2031.45,Rechazado,48.0,Falta XML válido
+38,Brasil,Jul-2024,Renta,54199.57,8671.93,Aprobado,28.0,
+39,México,May-2025,Material,47277.79,7564.45,Aprobado,80.0,
+40,Brasil,Feb-2025,Alimentos,7359.36,1177.5,Aprobado,17.0,
+41,México,Mar-2024,Material,59243.56,9478.97,Aprobado,86.0,
+42,Brasil,Dec-2024,Alimentos,18467.86,2954.86,Aprobado,75.0,
+43,Brasil,Jan-2025,Publicidad,8619.23,1379.08,Aprobado,50.0,
+44,México,Feb-2024,Vuelos,50270.91,8043.35,Aprobado,84.0,
+45,México,Mar-2024,Publicidad,43280.51,6924.88,Aprobado,79.0,
+46,Brasil,May-2024,Alimentos,38181.47,6109.04,Rechazado,30.0,Falta XML válido
+47,Colombia,Nov-2024,Vuelos,11890.91,1902.55,Rechazado,11.0,Factura duplicada
+48,México,Aug-2024,Renta,30274.28,4843.88,Aprobado,79.0,
+49,Colombia,Dec-2024,Renta,47491.69,7598.67,Rechazado,47.0,Factura duplicada
+50,Colombia,Jul-2024,Material,20306.56,3249.05,Aprobado,38.0,
+51,Colombia,Mar-2025,Alimentos,20766.32,3322.61,Aprobado,75.0,
+52,México,May-2025,Alimentos,3179.03,508.64,En proceso,,
+53,Colombia,Apr-2024,Renta,12931.87,2069.1,Rechazado,23.0,Error en el RFC
+54,México,Jan-2025,Publicidad,52898.12,8463.7,Rechazado,8.0,Factura duplicada
+55,Colombia,Jun-2025,Vuelos,28179.55,4508.73,Aprobado,67.0,
+56,Brasil,Jan-2024,Publicidad,59101.37,9456.22,Aprobado,79.0,
+57,Brasil,Apr-2025,Publicidad,25555.35,4088.86,En proceso,,
+58,México,Jan-2025,Renta,43765.63,7002.5,Aprobado,66.0,
+59,Brasil,Oct-2024,Renta,19069.39,3051.1,Aprobado,46.0,
+60,Brasil,Dec-2024,Renta,23737.15,3797.94,Rechazado,32.0,Falta XML válido
+61,Colombia,Feb-2024,Material,13871.38,2219.42,Rechazado,34.0,Factura duplicada
+62,México,Mar-2024,Publicidad,22782.56,3645.21,En proceso,,
+63,Colombia,Oct-2024,Alimentos,34192.54,5470.81,Aprobado,80.0,
+64,Colombia,Feb-2024,Vuelos,59531.05,9524.97,En proceso,,
+65,Colombia,Jan-2025,Material,40859.5,6537.52,Aprobado,82.0,
+66,Colombia,Jan-2025,Alimentos,14357.02,2297.12,Aprobado,34.0,
+67,Colombia,Jun-2025,Publicidad,5562.8,890.05,Rechazado,37.0,Monto incorrecto
+68,Colombia,Mar-2024,Renta,10202.32,1632.37,Aprobado,74.0,
+69,Colombia,Jul-2024,Publicidad,35065.65,5610.5,Aprobado,15.0,
+70,México,Feb-2025,Vuelos,46614.14,7458.26,Rechazado,22.0,Falta XML válido
+71,Brasil,May-2025,Material,56603.89,9056.62,Aprobado,19.0,
+72,Colombia,Dec-2024,Material,3901.92,624.31,Aprobado,20.0,
+73,Colombia,Apr-2025,Vuelos,32797.33,5247.57,Aprobado,74.0,
+74,Colombia,Dec-2024,Alimentos,29839.44,4774.31,Aprobado,86.0,
+75,Colombia,Mar-2025,Alimentos,40395.14,6463.22,Aprobado,74.0,
+76,Colombia,Oct-2024,Material,34895.99,5583.36,Rechazado,56.0,Monto incorrecto
+77,Colombia,Jul-2024,Material,42161.23,6745.8,Rechazado,7.0,Factura duplicada
+78,Brasil,May-2024,Renta,40510.71,6481.71,Aprobado,87.0,
+79,Brasil,Jan-2024,Alimentos,9669.67,1547.15,Rechazado,35.0,Gasto no deducible
+80,Colombia,May-2025,Vuelos,48583.92,7773.43,Aprobado,26.0,
+81,Brasil,Mar-2024,Alimentos,10024.26,1603.88,Aprobado,64.0,
+82,México,Jan-2025,Renta,42816.25,6850.6,Rechazado,50.0,Error en el RFC
+83,Colombia,Feb-2025,Material,26720.29,4275.25,Aprobado,45.0,
+84,México,Jun-2025,Material,32289.49,5166.32,En proceso,,
+85,México,Apr-2024,Renta,54487.99,8718.08,Aprobado,35.0,
+86,Colombia,Jun-2025,Vuelos,53723.37,8595.74,Rechazado,57.0,Falta XML válido
+87,Brasil,May-2024,Material,49617.81,7938.85,Aprobado,26.0,
+88,México,Apr-2025,Publicidad,32078.46,5132.55,Aprobado,34.0,
+89,Colombia,Jan-2024,Material,44965.67,7194.51,Aprobado,11.0,
+90,México,Feb-2025,Publicidad,32235.13,5157.62,Rechazado,59.0,Monto incorrecto
+91,México,Mar-2025,Renta,52567.55,8410.81,Aprobado,14.0,
+92,México,Sep-2024,Renta,25958.22,4153.32,En proceso,,
+93,México,Mar-2025,Material,58303.41,9328.55,Aprobado,13.0,
+94,Brasil,May-2025,Alimentos,56142.4,8982.78,Aprobado,45.0,
+95,México,Apr-2024,Publicidad,45271.35,7243.42,Aprobado,15.0,
+96,México,Dec-2024,Vuelos,18926.71,3028.27,Rechazado,56.0,Gasto no deducible
+97,México,May-2024,Material,10504.25,1680.68,En proceso,,
+98,Brasil,May-2024,Vuelos,51718.1,8274.9,Aprobado,30.0,
+99,México,Nov-2024,Material,12422.23,1987.56,Rechazado,17.0,Gasto no deducible
+100,México,Jun-2024,Alimentos,51692.86,8270.86,Aprobado,35.0,
+101,Brasil,Jul-2024,Alimentos,30973.61,4955.78,Rechazado,59.0,Falta XML válido
+102,Brasil,Feb-2025,Alimentos,26173.74,4187.8,En proceso,,
+103,Brasil,Nov-2024,Alimentos,54481.87,8717.1,Aprobado,48.0,
+104,México,Jan-2025,Renta,37419.51,5987.12,Aprobado,42.0,
+105,Brasil,Feb-2024,Renta,35867.0,5738.72,En proceso,,
+106,Brasil,Jul-2024,Publicidad,34849.66,5575.95,En proceso,,
+107,México,Apr-2024,Vuelos,24156.66,3865.07,Aprobado,23.0,
+108,Brasil,Aug-2024,Material,47781.66,7645.07,Aprobado,65.0,
+109,México,Jan-2025,Material,17409.51,2785.52,Aprobado,30.0,
+110,Colombia,Feb-2025,Renta,56517.01,9042.72,Aprobado,55.0,
+111,Brasil,Oct-2024,Material,53957.16,8633.15,Rechazado,20.0,Falta XML válido
+112,Colombia,Nov-2024,Renta,22236.38,3557.82,Rechazado,50.0,Gasto no deducible
+113,México,Feb-2024,Publicidad,44579.43,7132.71,Aprobado,25.0,
+114,Brasil,Sep-2024,Vuelos,35673.72,5707.8,Aprobado,38.0,
+115,México,May-2025,Publicidad,22246.01,3559.36,Aprobado,17.0,
+116,Colombia,Mar-2024,Alimentos,59345.73,9495.32,Aprobado,12.0,
+117,México,Jun-2024,Alimentos,4438.53,710.16,Aprobado,28.0,
+118,Brasil,May-2024,Alimentos,17400.82,2784.13,Aprobado,75.0,
+119,Brasil,May-2024,Publicidad,32644.22,5223.08,Aprobado,88.0,
+120,Colombia,Mar-2025,Material,32751.32,5240.21,Aprobado,83.0,
+121,México,May-2025,Vuelos,36569.19,5851.07,Aprobado,31.0,
+122,Brasil,Sep-2024,Alimentos,45845.54,7335.29,Aprobado,55.0,
+123,Colombia,Mar-2024,Alimentos,38538.24,6166.12,Aprobado,22.0,
+124,Brasil,May-2025,Alimentos,37216.04,5954.57,Aprobado,42.0,
+125,Brasil,Oct-2024,Vuelos,6050.32,968.05,Aprobado,14.0,
+126,México,Mar-2024,Alimentos,24462.23,3913.96,Aprobado,86.0,
+127,Brasil,Jun-2025,Vuelos,16227.18,2596.35,Aprobado,36.0,
+128,México,Jun-2025,Alimentos,18126.1,2900.18,Rechazado,18.0,Error en el RFC
+129,Brasil,May-2025,Publicidad,34597.24,5535.56,En proceso,,
+130,Colombia,Mar-2024,Publicidad,14371.8,2299.49,Rechazado,28.0,Error en el RFC
+131,Brasil,Mar-2024,Vuelos,19755.1,3160.82,Aprobado,76.0,
+132,México,Jun-2024,Publicidad,16513.83,2642.21,En proceso,,
+133,México,Jan-2025,Vuelos,57064.67,9130.35,Rechazado,51.0,Monto incorrecto
+134,Colombia,Mar-2025,Publicidad,56845.95,9095.35,Aprobado,72.0,
+135,Brasil,Sep-2024,Publicidad,37766.67,6042.67,Aprobado,57.0,
+136,Brasil,Apr-2024,Vuelos,55697.78,8911.64,En proceso,,
+137,Colombia,Feb-2025,Material,47791.32,7646.61,Aprobado,72.0,
+138,Brasil,May-2024,Publicidad,36627.03,5860.32,Aprobado,87.0,
+139,Brasil,Feb-2024,Alimentos,3366.81,538.69,Rechazado,16.0,Error en el RFC
+140,México,Nov-2024,Material,47033.43,7525.35,Rechazado,32.0,Gasto no deducible
+141,Brasil,Sep-2024,Vuelos,43041.84,6886.69,Aprobado,53.0,
+142,Brasil,Mar-2024,Material,38069.46,6091.11,Aprobado,52.0,
+143,Colombia,Sep-2024,Renta,46344.19,7415.07,Aprobado,26.0,
+144,Colombia,Mar-2024,Renta,32236.56,5157.85,Rechazado,44.0,Gasto no deducible
+145,México,Feb-2024,Publicidad,43132.75,6901.24,Aprobado,58.0,
+146,Brasil,Dec-2024,Publicidad,56304.81,9008.77,Aprobado,66.0,
+147,Brasil,Oct-2024,Alimentos,24420.89,3907.34,Rechazado,27.0,Factura duplicada
+148,Brasil,Sep-2024,Material,43362.94,6938.07,Aprobado,73.0,
+149,México,Mar-2025,Renta,30114.21,4818.27,Rechazado,15.0,Gasto no deducible
+150,México,Aug-2024,Publicidad,41440.78,6630.52,Aprobado,66.0,
+151,Colombia,May-2024,Material,46484.92,7437.59,Aprobado,83.0,
+152,México,Nov-2024,Publicidad,5590.79,894.53,Rechazado,14.0,Error en el RFC
+153,Brasil,Feb-2024,Publicidad,39856.23,6377.0,Aprobado,79.0,
+154,Brasil,Mar-2025,Renta,15924.25,2547.88,Aprobado,85.0,
+155,México,Jun-2024,Renta,41191.85,6590.7,Aprobado,52.0,
+156,Brasil,Aug-2024,Publicidad,29694.82,4751.17,Rechazado,59.0,Monto incorrecto
+157,Brasil,May-2024,Vuelos,47092.51,7534.8,En proceso,,
+158,México,Apr-2025,Publicidad,10033.85,1605.42,En proceso,,
+159,México,Jun-2025,Publicidad,38700.37,6192.06,Aprobado,32.0,
+160,Brasil,Jun-2024,Alimentos,18872.83,3019.65,Aprobado,36.0,
+161,Brasil,May-2024,Alimentos,51619.97,8259.2,Aprobado,67.0,
+162,Brasil,Apr-2025,Alimentos,55917.86,8946.86,Rechazado,49.0,Factura duplicada
+163,Colombia,Jan-2025,Vuelos,59794.7,9567.15,Aprobado,46.0,
+164,Colombia,May-2024,Vuelos,48372.42,7739.59,En proceso,,
+165,Colombia,Jan-2025,Publicidad,45962.84,7354.05,Aprobado,15.0,
+166,México,May-2025,Alimentos,15283.54,2445.37,En proceso,,
+167,Colombia,Jun-2025,Vuelos,22152.4,3544.38,Rechazado,5.0,Error en el RFC
+168,México,Aug-2024,Renta,29543.9,4727.02,Rechazado,10.0,Monto incorrecto
+169,México,Jan-2025,Publicidad,47082.72,7533.24,Aprobado,59.0,
+170,Colombia,Mar-2024,Material,55153.05,8824.49,Aprobado,31.0,
+171,Colombia,Aug-2024,Publicidad,13780.93,2204.95,Aprobado,34.0,
+172,Colombia,Feb-2024,Material,55574.95,8891.99,Aprobado,88.0,
+173,Brasil,Aug-2024,Alimentos,42650.61,6824.1,Aprobado,81.0,
+174,Colombia,Jan-2025,Material,37813.93,6050.23,Aprobado,60.0,
+175,Brasil,Jan-2025,Alimentos,14390.95,2302.55,Aprobado,57.0,
+176,México,Jan-2024,Renta,6164.93,986.39,Rechazado,42.0,Error en el RFC
+177,Brasil,Jun-2024,Material,35402.5,5664.4,Rechazado,10.0,Factura duplicada
+178,Colombia,Apr-2025,Publicidad,40136.39,6421.82,Aprobado,74.0,
+179,México,Aug-2024,Alimentos,15014.54,2402.33,En proceso,,
+180,México,Jan-2024,Publicidad,34718.0,5554.88,Aprobado,69.0,
+181,México,Apr-2025,Vuelos,51820.12,8291.22,Aprobado,55.0,
+182,Brasil,Sep-2024,Alimentos,50598.76,8095.8,Aprobado,45.0,
+183,Colombia,Jan-2025,Material,55859.25,8937.48,Rechazado,16.0,Gasto no deducible
+184,México,Nov-2024,Alimentos,23855.49,3816.88,Aprobado,47.0,
+185,México,Jan-2025,Publicidad,21128.83,3380.61,Aprobado,20.0,
+186,México,Oct-2024,Renta,45717.28,7314.76,Rechazado,16.0,Factura duplicada
+187,Brasil,Apr-2024,Alimentos,27573.41,4411.75,Aprobado,51.0,
+188,Brasil,Jun-2024,Material,7990.27,1278.44,Rechazado,54.0,Gasto no deducible
+189,Colombia,Jul-2024,Vuelos,19119.66,3059.15,En proceso,,
+190,Brasil,May-2024,Renta,26859.19,4297.47,En proceso,,
+191,México,Nov-2024,Vuelos,19673.44,3147.75,Aprobado,48.0,
+192,Colombia,Jan-2025,Alimentos,21935.72,3509.72,Aprobado,80.0,
+193,México,Oct-2024,Publicidad,19745.23,3159.24,Aprobado,20.0,
+194,México,Oct-2024,Publicidad,5365.45,858.47,Aprobado,45.0,
+195,Brasil,Nov-2024,Material,39314.4,6290.3,Aprobado,61.0,
+196,Colombia,Jul-2024,Publicidad,37045.67,5927.31,Aprobado,40.0,
+197,Brasil,Jun-2025,Renta,40242.86,6438.86,En proceso,,
+198,Brasil,Apr-2024,Publicidad,13961.66,2233.87,En proceso,,
+199,Colombia,Feb-2024,Material,19852.31,3176.37,Aprobado,42.0,
+200,México,Feb-2025,Alimentos,38318.11,6130.9,Aprobado,22.0,
+201,México,Jan-2025,Alimentos,37178.77,5948.6,Aprobado,27.0,
+202,Colombia,Dec-2024,Publicidad,31860.83,5097.73,Aprobado,50.0,
+203,México,Jul-2024,Vuelos,22973.56,3675.77,Rechazado,28.0,Factura duplicada
+204,Colombia,Feb-2024,Alimentos,55037.07,8805.93,Rechazado,13.0,Falta XML válido
+205,Colombia,Jan-2025,Publicidad,22366.9,3578.7,En proceso,,
+206,Brasil,Feb-2025,Material,28970.29,4635.25,Rechazado,35.0,Error en el RFC
+207,Colombia,May-2025,Publicidad,41652.49,6664.4,Aprobado,64.0,
+208,Brasil,Sep-2024,Alimentos,33952.22,5432.36,Rechazado,45.0,Error en el RFC
+209,México,May-2025,Material,22772.5,3643.6,Aprobado,19.0,
+210,México,Aug-2024,Publicidad,27831.75,4453.08,Aprobado,69.0,
+211,México,Feb-2024,Renta,48285.41,7725.67,Aprobado,11.0,
+212,México,Jan-2025,Material,18853.36,3016.54,Aprobado,24.0,
+213,Brasil,Mar-2024,Renta,11108.55,1777.37,Aprobado,12.0,
+214,México,Apr-2025,Vuelos,20850.3,3336.05,Aprobado,52.0,
+215,Colombia,Jun-2024,Material,51423.45,8227.75,En proceso,,
+216,Colombia,Jul-2024,Renta,8072.41,1291.59,Aprobado,40.0,
+217,Colombia,Oct-2024,Alimentos,59526.68,9524.27,Aprobado,79.0,
+218,Brasil,Sep-2024,Alimentos,33837.17,5413.95,Aprobado,76.0,
+219,México,Feb-2024,Vuelos,59136.21,9461.79,Rechazado,15.0,Falta XML válido
+220,México,Mar-2025,Material,56522.8,9043.65,Aprobado,24.0,
+221,México,May-2024,Material,28810.38,4609.66,En proceso,,
+222,Brasil,Apr-2024,Material,14313.99,2290.24,En proceso,,
+223,Colombia,Apr-2024,Vuelos,12398.43,1983.75,Aprobado,19.0,
+224,Colombia,Jun-2025,Material,16679.39,2668.7,Rechazado,42.0,Gasto no deducible
+225,México,Apr-2024,Alimentos,43477.56,6956.41,Aprobado,56.0,
+226,Colombia,May-2025,Renta,18558.15,2969.3,Aprobado,66.0,
+227,Colombia,Dec-2024,Alimentos,22461.24,3593.8,Rechazado,54.0,Error en el RFC
+228,Brasil,May-2025,Alimentos,28580.39,4572.86,Aprobado,80.0,
+229,Brasil,Oct-2024,Renta,55054.26,8808.68,Aprobado,24.0,
+230,Brasil,Jan-2024,Alimentos,13795.42,2207.27,Aprobado,27.0,
+231,Brasil,Jun-2025,Vuelos,3286.51,525.84,Aprobado,11.0,
+232,México,Jun-2025,Renta,6425.5,1028.08,En proceso,,
+233,Brasil,Feb-2025,Alimentos,54571.68,8731.47,Aprobado,52.0,
+234,Colombia,Mar-2025,Publicidad,39908.44,6385.35,Rechazado,30.0,Falta XML válido
+235,México,Dec-2024,Alimentos,18563.32,2970.13,Aprobado,80.0,
+236,Colombia,Apr-2024,Vuelos,13099.97,2096.0,Rechazado,42.0,Error en el RFC
+237,Colombia,Mar-2024,Material,19773.2,3163.71,Aprobado,51.0,
+238,Colombia,Dec-2024,Alimentos,9543.42,1526.95,Aprobado,14.0,
+239,Brasil,Jul-2024,Material,56667.38,9066.78,En proceso,,
+240,Brasil,Nov-2024,Publicidad,47699.75,7631.96,Aprobado,20.0,
+241,México,Jan-2024,Alimentos,29356.3,4697.01,Aprobado,74.0,
+242,México,Jun-2024,Renta,52302.87,8368.46,Aprobado,43.0,
+243,Brasil,Mar-2025,Material,17219.12,2755.06,Rechazado,5.0,Monto incorrecto
+244,Colombia,Mar-2025,Publicidad,43875.87,7020.14,Aprobado,11.0,
+245,México,Nov-2024,Renta,51799.55,8287.93,En proceso,,
+246,Brasil,Feb-2024,Renta,23335.82,3733.73,Aprobado,29.0,
+247,Brasil,Feb-2025,Renta,46175.47,7388.08,Aprobado,70.0,
+248,Brasil,Feb-2024,Renta,19819.12,3171.06,Rechazado,27.0,Gasto no deducible
+249,Colombia,Apr-2024,Alimentos,20034.86,3205.58,Rechazado,25.0,Monto incorrecto
+250,Brasil,May-2025,Alimentos,9102.26,1456.36,En proceso,,
+251,Brasil,Mar-2024,Alimentos,28083.31,4493.33,En proceso,,
+252,Brasil,Jan-2025,Publicidad,44593.58,7134.97,Aprobado,77.0,
+253,Brasil,Sep-2024,Publicidad,56592.59,9054.81,Aprobado,21.0,
+254,México,Jul-2024,Publicidad,37416.43,5986.63,Aprobado,31.0,
+255,México,Mar-2025,Vuelos,52198.73,8351.8,Rechazado,24.0,Gasto no deducible
+256,Brasil,Nov-2024,Publicidad,49882.2,7981.15,En proceso,,
+257,Colombia,Feb-2024,Alimentos,12880.55,2060.89,Aprobado,10.0,
+258,México,Mar-2025,Alimentos,30691.59,4910.65,Aprobado,39.0,
+259,Brasil,Feb-2025,Vuelos,9664.64,1546.34,Aprobado,33.0,
+260,México,Nov-2024,Vuelos,41882.73,6701.24,Rechazado,18.0,Falta XML válido
+261,México,Mar-2024,Publicidad,57144.28,9143.08,Aprobado,45.0,
+262,Colombia,May-2025,Material,10814.1,1730.26,Aprobado,78.0,
+263,Brasil,Dec-2024,Vuelos,44831.34,7173.01,Aprobado,84.0,
+264,Brasil,Mar-2025,Renta,39037.57,6246.01,Rechazado,28.0,Gasto no deducible
+265,Colombia,Apr-2025,Alimentos,36265.49,5802.48,Rechazado,35.0,Gasto no deducible
+266,Colombia,May-2024,Renta,25236.85,4037.9,Rechazado,59.0,Falta XML válido
+267,Brasil,Jun-2024,Alimentos,23242.5,3718.8,Aprobado,86.0,
+268,Brasil,May-2024,Alimentos,5579.2,892.67,Aprobado,89.0,
+269,Colombia,Mar-2024,Vuelos,15420.8,2467.33,Rechazado,28.0,Gasto no deducible
+270,México,Jan-2024,Vuelos,3865.08,618.41,En proceso,,
+271,México,Jun-2024,Renta,36140.78,5782.52,Aprobado,86.0,
+272,Colombia,Mar-2025,Alimentos,9033.63,1445.38,Aprobado,33.0,
+273,México,Feb-2024,Renta,52762.11,8441.94,Aprobado,63.0,
+274,Colombia,Mar-2024,Material,32819.15,5251.06,Aprobado,35.0,
+275,México,May-2025,Renta,42882.32,6861.17,Rechazado,6.0,Error en el RFC
+276,México,Dec-2024,Publicidad,26418.85,4227.02,Aprobado,89.0,
+277,Brasil,Jun-2025,Renta,34953.05,5592.49,Aprobado,47.0,
+278,Brasil,Mar-2025,Publicidad,56731.57,9077.05,Aprobado,74.0,
+279,México,Dec-2024,Publicidad,7715.84,1234.53,Aprobado,84.0,
+280,México,Apr-2025,Publicidad,17474.45,2795.91,Aprobado,60.0,
+281,Brasil,Aug-2024,Material,47459.33,7593.49,Aprobado,44.0,
+282,Brasil,Feb-2025,Renta,8628.02,1380.48,Aprobado,52.0,
+283,Brasil,May-2025,Renta,7312.68,1170.03,Rechazado,33.0,Factura duplicada
+284,Colombia,Aug-2024,Material,23607.86,3777.26,Aprobado,46.0,
+285,México,Mar-2025,Alimentos,8253.57,1320.57,Aprobado,67.0,
+286,Brasil,Feb-2025,Vuelos,36349.47,5815.92,En proceso,,
+287,México,Jun-2025,Renta,15897.69,2543.63,Rechazado,58.0,Falta XML válido
+288,Colombia,Jul-2024,Vuelos,54054.78,8648.76,Rechazado,43.0,Factura duplicada
+289,Colombia,Mar-2024,Material,47659.5,7625.52,Aprobado,51.0,
+290,Brasil,Dec-2024,Alimentos,42883.2,6861.31,Aprobado,37.0,
+291,Colombia,Mar-2024,Alimentos,38165.81,6106.53,Aprobado,38.0,
+292,México,Feb-2025,Alimentos,52217.55,8354.81,Aprobado,52.0,
+293,Brasil,Mar-2025,Material,15714.54,2514.33,Aprobado,12.0,
+294,México,Feb-2025,Publicidad,52767.2,8442.75,En proceso,,
+295,México,Jul-2024,Publicidad,48001.06,7680.17,Aprobado,19.0,
+296,Colombia,May-2025,Vuelos,45645.17,7303.23,Aprobado,68.0,
+297,Colombia,Dec-2024,Publicidad,34991.57,5598.65,Aprobado,23.0,
+298,Colombia,Apr-2024,Publicidad,17035.92,2725.75,Aprobado,85.0,
+299,Colombia,Sep-2024,Alimentos,27142.23,4342.76,Rechazado,51.0,Falta XML válido
+300,Colombia,Jun-2024,Alimentos,48233.53,7717.36,Aprobado,51.0,
+301,Brasil,Apr-2025,Vuelos,4811.37,769.82,Rechazado,34.0,Falta XML válido
+302,México,Feb-2024,Renta,47576.89,7612.3,En proceso,,
+303,México,Aug-2024,Vuelos,16684.03,2669.44,Aprobado,41.0,
+304,México,Nov-2024,Vuelos,11225.62,1796.1,Aprobado,41.0,
+305,México,Jan-2025,Material,9594.98,1535.2,En proceso,,
+306,Colombia,May-2025,Material,4553.25,728.52,Rechazado,46.0,Monto incorrecto
+307,México,Aug-2024,Vuelos,32844.43,5255.11,Aprobado,41.0,
+308,Brasil,Jun-2025,Vuelos,15440.81,2470.53,En proceso,,
+309,Brasil,Jun-2025,Vuelos,59397.61,9503.62,Aprobado,35.0,
+310,México,Feb-2025,Publicidad,35742.9,5718.86,En proceso,,
+311,México,Mar-2025,Material,10859.46,1737.51,Aprobado,10.0,
+312,Brasil,Jun-2024,Vuelos,42259.46,6761.51,Aprobado,65.0,
+313,Brasil,Nov-2024,Alimentos,54171.38,8667.42,En proceso,,
+314,Colombia,Jan-2025,Alimentos,45475.23,7276.04,Aprobado,11.0,
+315,Brasil,Jan-2024,Publicidad,7357.07,1177.13,Aprobado,39.0,
+316,Colombia,Jun-2024,Publicidad,54065.4,8650.46,Aprobado,80.0,
+317,Colombia,Sep-2024,Renta,48253.97,7720.64,En proceso,,
+318,Colombia,Aug-2024,Renta,12023.32,1923.73,Rechazado,56.0,Monto incorrecto
+319,Colombia,Nov-2024,Renta,5951.8,952.29,Rechazado,31.0,Gasto no deducible
+320,Colombia,Sep-2024,Publicidad,34766.7,5562.67,Aprobado,18.0,
+321,México,May-2025,Publicidad,11894.04,1903.05,Rechazado,26.0,Factura duplicada
+322,Brasil,Dec-2024,Publicidad,50571.68,8091.47,Aprobado,43.0,
+323,Colombia,Feb-2025,Alimentos,23425.08,3748.01,Aprobado,58.0,
+324,Brasil,Mar-2025,Publicidad,55034.87,8805.58,Rechazado,5.0,Falta XML válido
+325,Brasil,Apr-2025,Alimentos,35244.23,5639.08,Aprobado,82.0,
+326,Colombia,Jan-2024,Renta,13412.33,2145.97,Aprobado,62.0,
+327,México,Oct-2024,Renta,10957.14,1753.14,Aprobado,49.0,
+328,Colombia,Aug-2024,Renta,35858.93,5737.43,Aprobado,54.0,
+329,México,Jun-2025,Vuelos,46427.37,7428.38,En proceso,,
+330,Brasil,Jan-2024,Vuelos,47545.82,7607.33,Aprobado,77.0,
+331,México,Feb-2024,Material,18718.17,2994.91,Rechazado,13.0,Gasto no deducible
+332,México,Jan-2024,Material,14642.07,2342.73,Aprobado,31.0,
+333,México,Jan-2024,Material,3955.11,632.82,Aprobado,27.0,
+334,Brasil,Sep-2024,Vuelos,41714.35,6674.3,Aprobado,85.0,
+335,Brasil,Jan-2025,Vuelos,7364.39,1178.3,Rechazado,46.0,Error en el RFC
+336,México,Jan-2024,Material,26983.39,4317.34,Rechazado,47.0,Falta XML válido
+337,México,Jan-2025,Material,37295.88,5967.34,En proceso,,
+338,Colombia,Jul-2024,Publicidad,56415.21,9026.43,Rechazado,43.0,Error en el RFC
+339,México,Feb-2024,Material,20772.72,3323.64,Aprobado,82.0,
+340,Colombia,Jun-2024,Publicidad,17237.01,2757.92,Rechazado,10.0,Gasto no deducible
+341,México,Jul-2024,Alimentos,40287.13,6445.94,En proceso,,
+342,Colombia,Feb-2025,Vuelos,38296.62,6127.46,Rechazado,23.0,Monto incorrecto
+343,Brasil,Jun-2025,Material,21930.26,3508.84,Aprobado,57.0,
+344,México,Mar-2025,Vuelos,55901.8,8944.29,Aprobado,16.0,
+345,México,Feb-2024,Vuelos,51157.15,8185.14,Rechazado,20.0,Gasto no deducible
+346,México,Oct-2024,Vuelos,15767.01,2522.72,Rechazado,9.0,Error en el RFC
+347,México,Dec-2024,Alimentos,16631.13,2660.98,Aprobado,25.0,
+348,Colombia,May-2025,Renta,32201.12,5152.18,En proceso,,
+349,México,Aug-2024,Material,47093.61,7534.98,En proceso,,
+350,Brasil,Nov-2024,Renta,5510.3,881.65,Aprobado,10.0,
+351,Brasil,Mar-2024,Renta,42520.1,6803.22,En proceso,,
+352,México,Jun-2024,Renta,39949.45,6391.91,Aprobado,46.0,
+353,Brasil,Sep-2024,Vuelos,16194.37,2591.1,Aprobado,46.0,
+354,México,Jun-2024,Publicidad,41837.12,6693.94,Aprobado,73.0,
+355,México,Sep-2024,Vuelos,56590.44,9054.47,Aprobado,71.0,
+356,Brasil,Jul-2024,Vuelos,5666.79,906.69,Rechazado,12.0,Falta XML válido
+357,México,Sep-2024,Renta,21220.17,3395.23,Aprobado,70.0,
+358,Brasil,Jun-2025,Vuelos,27976.07,4476.17,Aprobado,42.0,
+359,Colombia,Dec-2024,Renta,54257.84,8681.25,Aprobado,75.0,
+360,México,Aug-2024,Publicidad,57848.9,9255.82,Aprobado,39.0,
+361,Colombia,Aug-2024,Material,28314.57,4530.33,Aprobado,29.0,
+362,Brasil,Jun-2025,Renta,45751.62,7320.26,Rechazado,22.0,Factura duplicada
+363,Colombia,Mar-2025,Publicidad,33304.68,5328.75,Aprobado,83.0,
+364,Colombia,Jul-2024,Material,33653.63,5384.58,En proceso,,
+365,Brasil,Nov-2024,Alimentos,18851.67,3016.27,Rechazado,28.0,Gasto no deducible
+366,Colombia,Apr-2025,Renta,15366.51,2458.64,Aprobado,13.0,
+367,Colombia,Apr-2024,Renta,19416.3,3106.61,En proceso,,
+368,Brasil,Jun-2024,Alimentos,34710.7,5553.71,Aprobado,46.0,
+369,Colombia,Mar-2024,Alimentos,4661.85,745.9,Aprobado,13.0,
+370,Brasil,Sep-2024,Renta,54713.19,8754.11,Aprobado,86.0,
+371,Colombia,Oct-2024,Alimentos,11908.17,1905.31,Aprobado,86.0,
+372,Brasil,Feb-2025,Vuelos,15545.05,2487.21,Aprobado,27.0,
+373,Brasil,Nov-2024,Material,32541.74,5206.68,Rechazado,28.0,Falta XML válido
+374,Colombia,Jun-2025,Material,43476.54,6956.25,Aprobado,75.0,
+375,Colombia,Dec-2024,Material,8456.56,1353.05,Rechazado,52.0,Monto incorrecto
+376,Colombia,Dec-2024,Vuelos,21108.6,3377.38,Aprobado,42.0,
+377,México,Jan-2025,Alimentos,58214.45,9314.31,Rechazado,23.0,Monto incorrecto
+378,México,Jan-2025,Publicidad,17953.55,2872.57,Aprobado,82.0,
+379,México,Feb-2025,Alimentos,20843.86,3335.02,Aprobado,37.0,
+380,Brasil,Apr-2024,Renta,50680.41,8108.87,Aprobado,44.0,
+381,Colombia,Jan-2025,Material,5862.22,937.96,Aprobado,19.0,
+382,Brasil,Aug-2024,Alimentos,29482.95,4717.27,Aprobado,74.0,
+383,México,Dec-2024,Publicidad,24638.16,3942.11,Rechazado,46.0,Monto incorrecto
+384,Colombia,Jun-2025,Renta,21045.45,3367.27,Aprobado,18.0,
+385,Brasil,Jun-2024,Vuelos,19284.88,3085.58,Rechazado,51.0,Falta XML válido
+386,Colombia,Jun-2025,Vuelos,8208.32,1313.33,Rechazado,19.0,Gasto no deducible
+387,Brasil,May-2024,Publicidad,20945.07,3351.21,En proceso,,
+388,Colombia,Sep-2024,Renta,5453.99,872.64,Aprobado,66.0,
+389,México,Mar-2024,Material,47514.94,7602.39,Aprobado,78.0,
+390,México,Oct-2024,Alimentos,25698.98,4111.84,En proceso,,
+391,Colombia,Mar-2024,Renta,28302.52,4528.4,Rechazado,45.0,Falta XML válido
+392,Brasil,Mar-2025,Vuelos,53934.89,8629.58,Aprobado,31.0,
+393,México,Jan-2024,Publicidad,40509.13,6481.46,Aprobado,73.0,
+394,México,Jul-2024,Publicidad,3459.37,553.5,Aprobado,50.0,
+395,México,Dec-2024,Alimentos,56760.96,9081.75,Aprobado,80.0,
+396,Colombia,May-2025,Publicidad,16517.23,2642.76,Rechazado,27.0,Falta XML válido
+397,Colombia,May-2024,Publicidad,9134.01,1461.44,Aprobado,34.0,
+398,Brasil,Apr-2024,Renta,46783.31,7485.33,Aprobado,15.0,
+399,Brasil,Dec-2024,Material,31527.21,5044.35,Aprobado,43.0,
+400,Brasil,Jun-2025,Alimentos,27724.92,4435.99,Aprobado,72.0,
+401,Colombia,May-2025,Renta,17221.68,2755.47,Rechazado,13.0,Factura duplicada
+402,Colombia,Sep-2024,Material,34205.87,5472.94,Rechazado,53.0,Factura duplicada
+403,Brasil,Apr-2024,Renta,18639.92,2982.39,Aprobado,60.0,
+404,Brasil,Feb-2024,Renta,54390.23,8702.44,En proceso,,
+405,Colombia,Apr-2024,Publicidad,15266.66,2442.67,Aprobado,69.0,
+406,Brasil,Feb-2024,Material,53408.24,8545.32,Aprobado,79.0,
+407,México,Mar-2025,Alimentos,34886.11,5581.78,Aprobado,46.0,
+408,Colombia,Feb-2024,Alimentos,50223.82,8035.81,Aprobado,40.0,
+409,Brasil,Apr-2024,Material,43632.22,6981.16,Aprobado,50.0,
+410,Colombia,Jun-2024,Publicidad,42711.62,6833.86,Aprobado,71.0,
+411,México,Jul-2024,Vuelos,21487.71,3438.03,Rechazado,33.0,Gasto no deducible
+412,Colombia,Oct-2024,Renta,16332.13,2613.14,Aprobado,67.0,
+413,Colombia,Dec-2024,Publicidad,15020.51,2403.28,Rechazado,18.0,Factura duplicada
+414,Colombia,Mar-2024,Material,51859.92,8297.59,Aprobado,45.0,
+415,Colombia,Jan-2025,Renta,49764.33,7962.29,En proceso,,
+416,México,Jun-2025,Alimentos,28112.69,4498.03,Rechazado,40.0,Monto incorrecto
+417,Colombia,Aug-2024,Vuelos,10547.06,1687.53,Aprobado,88.0,
+418,Colombia,Mar-2025,Alimentos,24788.38,3966.14,Rechazado,12.0,Factura duplicada
+419,Brasil,Jan-2024,Material,38302.58,6128.41,Aprobado,35.0,
+420,Colombia,Mar-2024,Renta,28900.98,4624.16,Rechazado,40.0,Monto incorrecto
+421,Brasil,Aug-2024,Material,47470.79,7595.33,Aprobado,57.0,
+422,México,Apr-2024,Renta,59864.5,9578.32,Rechazado,25.0,Gasto no deducible
+423,México,Apr-2025,Publicidad,13894.53,2223.12,Rechazado,32.0,Falta XML válido
+424,México,Oct-2024,Vuelos,29200.1,4672.02,Aprobado,77.0,
+425,México,Dec-2024,Publicidad,27566.08,4410.57,Aprobado,71.0,
+426,Brasil,Feb-2025,Publicidad,20356.07,3256.97,Rechazado,20.0,Falta XML válido
+427,Colombia,Feb-2025,Material,14291.44,2286.63,Aprobado,85.0,
+428,México,Feb-2024,Vuelos,6744.45,1079.11,Aprobado,89.0,
+429,Colombia,May-2024,Renta,53565.8,8570.53,Aprobado,60.0,
+430,Brasil,May-2024,Renta,26931.38,4309.02,Aprobado,51.0,
+431,Brasil,Jun-2024,Alimentos,31323.04,5011.69,En proceso,,
+432,Brasil,Jan-2025,Renta,55265.7,8842.51,Aprobado,38.0,
+433,México,Sep-2024,Material,47248.56,7559.77,Aprobado,19.0,
+434,Colombia,Mar-2025,Publicidad,10438.57,1670.17,Rechazado,46.0,Factura duplicada
+435,Colombia,Feb-2025,Publicidad,35228.94,5636.63,Rechazado,43.0,Monto incorrecto
+436,Colombia,Jul-2024,Publicidad,28208.38,4513.34,Aprobado,10.0,
+437,Brasil,Feb-2024,Vuelos,48441.03,7750.56,Aprobado,48.0,
+438,México,Jul-2024,Renta,44281.26,7085.0,En proceso,,
+439,Brasil,Jun-2024,Material,42353.13,6776.5,Rechazado,25.0,Error en el RFC
+440,Brasil,May-2025,Vuelos,22411.06,3585.77,Aprobado,74.0,
+441,Colombia,Feb-2024,Alimentos,48882.93,7821.27,Aprobado,24.0,
+442,Brasil,Mar-2024,Material,5986.3,957.81,Aprobado,13.0,
+443,Colombia,May-2024,Material,12098.62,1935.78,Aprobado,69.0,
+444,México,May-2024,Material,22130.53,3540.88,Aprobado,70.0,
+445,Colombia,Jan-2024,Publicidad,7378.02,1180.48,En proceso,,
+446,México,Aug-2024,Material,16394.67,2623.15,Aprobado,29.0,
+447,Colombia,Dec-2024,Renta,50318.61,8050.98,Rechazado,14.0,Error en el RFC
+448,Brasil,Apr-2024,Material,57050.34,9128.05,Aprobado,43.0,
+449,Brasil,Jan-2025,Publicidad,20362.33,3257.97,Rechazado,50.0,Error en el RFC
+450,México,Mar-2025,Material,18077.4,2892.38,Rechazado,52.0,Falta XML válido
+451,México,Nov-2024,Alimentos,18953.88,3032.62,Aprobado,42.0,
+452,México,Oct-2024,Alimentos,18829.99,3012.8,Aprobado,70.0,
+453,Colombia,Mar-2024,Publicidad,5048.02,807.68,Aprobado,19.0,
+454,Colombia,Feb-2025,Renta,55834.23,8933.48,En proceso,,
+455,México,Apr-2025,Renta,15180.79,2428.93,En proceso,,
+456,Brasil,Oct-2024,Vuelos,26940.23,4310.44,Aprobado,63.0,
+457,Colombia,Oct-2024,Publicidad,3552.15,568.34,Aprobado,74.0,
+458,Colombia,Dec-2024,Material,51903.44,8304.55,Aprobado,86.0,
+459,Colombia,Sep-2024,Publicidad,44675.97,7148.16,Rechazado,5.0,Falta XML válido
+460,México,Jan-2024,Vuelos,56965.09,9114.41,Aprobado,14.0,
+461,México,May-2024,Publicidad,47552.08,7608.33,Aprobado,89.0,
+462,México,Aug-2024,Publicidad,20881.27,3341.0,Aprobado,24.0,
+463,México,Nov-2024,Vuelos,17128.78,2740.6,Aprobado,37.0,
+464,México,Dec-2024,Renta,42769.83,6843.17,Rechazado,35.0,Monto incorrecto
+465,Brasil,Jan-2024,Material,23754.43,3800.71,Aprobado,32.0,
+466,Brasil,Nov-2024,Vuelos,35274.26,5643.88,Rechazado,52.0,Factura duplicada
+467,México,May-2024,Alimentos,3356.68,537.07,Aprobado,26.0,
+468,Colombia,Mar-2025,Renta,6527.48,1044.4,Aprobado,22.0,
+469,México,May-2024,Alimentos,33515.97,5362.56,Rechazado,18.0,Error en el RFC
+470,Brasil,Dec-2024,Renta,35266.08,5642.57,En proceso,,
+471,Brasil,May-2024,Material,45832.82,7333.25,Rechazado,15.0,Monto incorrecto
+472,Colombia,May-2025,Material,10522.02,1683.52,Aprobado,37.0,
+473,Brasil,May-2025,Publicidad,32251.44,5160.23,Aprobado,51.0,
+474,México,Dec-2024,Alimentos,14083.52,2253.36,En proceso,,
+475,Colombia,Mar-2025,Renta,8312.18,1329.95,Aprobado,70.0,
+476,México,Mar-2025,Material,26398.26,4223.72,Aprobado,73.0,
+477,México,Jun-2024,Vuelos,12310.19,1969.63,En proceso,,
+478,Colombia,Dec-2024,Material,15641.57,2502.65,Rechazado,35.0,Monto incorrecto
+479,México,Jun-2025,Vuelos,21100.61,3376.1,En proceso,,
+480,Brasil,Feb-2025,Renta,17785.14,2845.62,En proceso,,
+481,México,Feb-2024,Material,7992.7,1278.83,En proceso,,
+482,Colombia,Sep-2024,Material,8125.23,1300.04,Aprobado,82.0,
+483,Colombia,May-2024,Renta,14015.22,2242.44,Aprobado,19.0,
+484,Colombia,Jan-2024,Material,5881.87,941.1,Aprobado,17.0,
+485,México,Mar-2024,Vuelos,38708.05,6193.29,Aprobado,30.0,
+486,Colombia,Jun-2024,Material,19377.62,3100.42,Aprobado,86.0,
+487,Colombia,May-2024,Alimentos,18945.52,3031.28,Aprobado,68.0,
+488,México,May-2024,Publicidad,21923.9,3507.82,Aprobado,59.0,
+489,Brasil,Jan-2024,Vuelos,40779.39,6524.7,Aprobado,78.0,
+490,México,May-2025,Alimentos,52626.13,8420.18,Aprobado,79.0,
+491,Colombia,Feb-2025,Renta,46267.96,7402.87,Aprobado,39.0,
+492,Colombia,Dec-2024,Vuelos,44469.17,7115.07,Aprobado,26.0,
+493,México,Oct-2024,Publicidad,30610.3,4897.65,Rechazado,15.0,Factura duplicada
+494,Brasil,Jun-2025,Publicidad,42546.92,6807.51,Aprobado,29.0,
+495,Colombia,Nov-2024,Renta,34507.45,5521.19,Aprobado,57.0,
+496,Colombia,Feb-2024,Renta,15326.28,2452.2,Rechazado,13.0,Monto incorrecto
+497,Colombia,Jun-2025,Vuelos,14889.54,2382.33,Aprobado,11.0,
+498,México,Jul-2024,Material,19894.34,3183.09,Aprobado,46.0,
+499,Colombia,Mar-2025,Renta,54915.75,8786.52,Aprobado,10.0,
+500,Brasil,Nov-2024,Material,34202.65,5472.42,Aprobado,13.0,
+501,Colombia,Jun-2025,Alimentos,44832.61,7173.22,En proceso,,
+502,Colombia,Dec-2024,Publicidad,22753.85,3640.62,Aprobado,63.0,
+503,Brasil,Jun-2024,Material,26239.8,4198.37,Rechazado,29.0,Factura duplicada
+504,Colombia,Jan-2025,Publicidad,10157.24,1625.16,Aprobado,12.0,
+505,México,Apr-2025,Material,12763.81,2042.21,Aprobado,18.0,
+506,México,Jun-2025,Alimentos,50159.32,8025.49,Aprobado,85.0,
+507,México,Oct-2024,Renta,36335.8,5813.73,Aprobado,83.0,
+508,Brasil,Aug-2024,Alimentos,22239.35,3558.3,Aprobado,43.0,
+509,Colombia,Jun-2025,Renta,48762.52,7802.0,Aprobado,52.0,
+510,México,Jan-2024,Renta,17051.63,2728.26,Aprobado,83.0,
+511,Brasil,Aug-2024,Publicidad,58633.86,9381.42,Rechazado,34.0,Gasto no deducible
+512,Colombia,Jun-2024,Alimentos,22654.6,3624.74,Aprobado,31.0,
+513,Brasil,May-2024,Material,22226.72,3556.28,En proceso,,
+514,México,Mar-2025,Alimentos,20778.98,3324.64,Rechazado,10.0,Factura duplicada
+515,México,Mar-2025,Publicidad,9960.36,1593.66,Aprobado,11.0,
+516,México,Feb-2024,Renta,9334.82,1493.57,Aprobado,75.0,
+517,Brasil,Jan-2024,Publicidad,39941.99,6390.72,Aprobado,41.0,
+518,Brasil,Nov-2024,Vuelos,52881.73,8461.08,Rechazado,46.0,Error en el RFC
+519,México,Oct-2024,Vuelos,48059.67,7689.55,Aprobado,25.0,
+520,Brasil,Jun-2025,Material,11043.13,1766.9,Rechazado,16.0,Error en el RFC
+521,México,Jun-2025,Publicidad,34098.18,5455.71,Aprobado,10.0,
+522,México,May-2025,Material,9018.72,1443.0,Rechazado,57.0,Factura duplicada
+523,Colombia,Aug-2024,Material,5581.79,893.09,Aprobado,81.0,
+524,Brasil,Mar-2025,Vuelos,40413.99,6466.24,En proceso,,
+525,México,Aug-2024,Material,33503.68,5360.59,Aprobado,57.0,
+526,México,May-2025,Vuelos,7675.35,1228.06,Aprobado,59.0,
+527,Brasil,Dec-2024,Renta,4991.54,798.65,Aprobado,22.0,
+528,Colombia,Aug-2024,Publicidad,59416.12,9506.58,Aprobado,24.0,
+529,Colombia,Feb-2025,Material,4711.22,753.8,En proceso,,
+530,México,Apr-2024,Vuelos,28338.11,4534.1,Aprobado,62.0,
+531,Brasil,Jan-2024,Alimentos,31763.28,5082.12,Aprobado,53.0,
+532,Colombia,Jan-2024,Material,9684.97,1549.6,Aprobado,17.0,
+533,Brasil,Apr-2025,Renta,12636.52,2021.84,Aprobado,83.0,
+534,Brasil,Feb-2025,Renta,23052.89,3688.46,Aprobado,55.0,
+535,México,Apr-2025,Alimentos,46415.52,7426.48,Rechazado,9.0,Gasto no deducible
+536,Colombia,May-2024,Vuelos,31903.7,5104.59,Aprobado,28.0,
+537,México,Sep-2024,Material,39360.41,6297.67,En proceso,,
+538,Colombia,Feb-2024,Vuelos,59154.95,9464.79,Aprobado,47.0,
+539,Colombia,Jun-2025,Renta,46776.31,7484.21,Aprobado,20.0,
+540,Colombia,Jun-2024,Vuelos,27758.61,4441.38,Rechazado,57.0,Gasto no deducible
+541,Colombia,Sep-2024,Renta,28447.19,4551.55,Rechazado,47.0,Error en el RFC
+542,Colombia,Jan-2024,Vuelos,38270.01,6123.2,Aprobado,29.0,
+543,Brasil,Sep-2024,Alimentos,40925.82,6548.13,Rechazado,24.0,Gasto no deducible
+544,México,Apr-2025,Publicidad,31540.52,5046.48,Aprobado,30.0,
+545,Brasil,Jan-2025,Alimentos,39757.09,6361.13,Aprobado,66.0,
+546,Colombia,Sep-2024,Alimentos,4341.35,694.62,En proceso,,
+547,México,Jan-2025,Publicidad,27488.5,4398.16,Aprobado,59.0,
+548,Colombia,Sep-2024,Publicidad,18899.47,3023.92,Aprobado,83.0,
+549,México,Nov-2024,Material,10362.94,1658.07,Rechazado,38.0,Monto incorrecto
+550,Brasil,Apr-2024,Material,8674.15,1387.86,En proceso,,
+551,México,Feb-2024,Alimentos,37381.95,5981.11,Aprobado,35.0,
+552,México,Jun-2024,Alimentos,32845.23,5255.24,Aprobado,39.0,
+553,México,Feb-2025,Renta,17454.29,2792.69,Aprobado,82.0,
+554,México,Apr-2024,Renta,29844.15,4775.06,En proceso,,
+555,México,Jun-2024,Material,31057.24,4969.16,En proceso,,
+556,Colombia,Jun-2024,Material,14115.51,2258.48,Aprobado,40.0,
+557,México,Feb-2024,Renta,40169.3,6427.09,Aprobado,51.0,
+558,México,Jun-2025,Renta,47512.4,7601.98,Aprobado,77.0,
+559,Brasil,Jan-2025,Vuelos,48113.42,7698.15,Rechazado,10.0,Falta XML válido
+560,México,Sep-2024,Vuelos,37340.78,5974.52,Rechazado,18.0,Monto incorrecto
+561,Brasil,Jan-2025,Renta,32163.4,5146.14,Rechazado,8.0,Error en el RFC
+562,Colombia,Nov-2024,Vuelos,6477.41,1036.39,En proceso,,
+563,México,Jan-2024,Publicidad,19406.38,3105.02,Aprobado,26.0,
+564,Brasil,Jul-2024,Material,8316.47,1330.64,Aprobado,28.0,
+565,Brasil,Mar-2025,Material,57937.92,9270.07,Aprobado,60.0,
+566,Colombia,Jan-2024,Renta,10699.57,1711.93,Aprobado,79.0,
+567,México,Dec-2024,Alimentos,11651.2,1864.19,Aprobado,72.0,
+568,México,Jul-2024,Renta,53705.87,8592.94,Aprobado,84.0,
+569,Brasil,Mar-2025,Vuelos,56803.91,9088.63,Rechazado,20.0,Gasto no deducible
+570,México,Jan-2024,Alimentos,46652.26,7464.36,En proceso,,
+571,Brasil,May-2025,Vuelos,3308.08,529.29,Aprobado,39.0,
+572,México,May-2025,Publicidad,3076.74,492.28,Aprobado,34.0,
+573,Brasil,Mar-2024,Vuelos,24551.74,3928.28,Aprobado,84.0,
+574,México,Dec-2024,Publicidad,11173.54,1787.77,Rechazado,11.0,Factura duplicada
+575,Colombia,Jun-2024,Publicidad,4048.01,647.68,Rechazado,30.0,Falta XML válido
+576,México,Nov-2024,Vuelos,29451.8,4712.29,Aprobado,65.0,
+577,México,Mar-2024,Vuelos,56754.53,9080.72,Aprobado,31.0,
+578,Colombia,Aug-2024,Publicidad,21457.72,3433.24,Aprobado,28.0,
+579,México,Feb-2025,Alimentos,40685.02,6509.6,Aprobado,40.0,
+580,Colombia,Feb-2025,Publicidad,40177.42,6428.39,Aprobado,35.0,
+581,México,Oct-2024,Material,17311.57,2769.85,Rechazado,46.0,Factura duplicada
+582,Brasil,Feb-2024,Publicidad,40074.24,6411.88,En proceso,,
+583,Brasil,Feb-2025,Alimentos,15103.04,2416.49,Aprobado,50.0,
+584,México,Sep-2024,Material,9954.42,1592.71,Rechazado,40.0,Error en el RFC
+585,México,Mar-2024,Renta,42978.85,6876.62,En proceso,,
+586,México,Aug-2024,Renta,9466.13,1514.58,Aprobado,32.0,
+587,Brasil,Apr-2025,Alimentos,59823.83,9571.81,Aprobado,56.0,
+588,México,Feb-2024,Publicidad,13456.79,2153.09,En proceso,,
+589,Brasil,Jun-2024,Vuelos,36866.09,5898.57,Aprobado,22.0,
+590,Colombia,Dec-2024,Alimentos,26448.35,4231.74,En proceso,,
+591,Brasil,May-2024,Material,10204.03,1632.64,En proceso,,
+592,Brasil,Feb-2024,Material,4587.1,733.94,Rechazado,29.0,Gasto no deducible
+593,Colombia,Apr-2025,Renta,38495.74,6159.32,Rechazado,6.0,Factura duplicada
+594,Brasil,May-2024,Material,48985.18,7837.63,Rechazado,6.0,Factura duplicada
+595,México,Mar-2025,Alimentos,50994.89,8159.18,Rechazado,20.0,Falta XML válido
+596,México,Dec-2024,Material,30514.67,4882.35,Aprobado,82.0,
+597,Brasil,Apr-2024,Alimentos,47314.96,7570.39,Aprobado,37.0,
+598,México,Mar-2025,Vuelos,41352.29,6616.37,Aprobado,86.0,
+599,Brasil,Nov-2024,Renta,44282.51,7085.2,Rechazado,39.0,Falta XML válido
+600,México,Apr-2025,Material,31078.14,4972.5,Aprobado,50.0,
+601,México,Jun-2024,Alimentos,39104.47,6256.72,Aprobado,86.0,
+602,Brasil,Feb-2025,Publicidad,48914.98,7826.4,Aprobado,40.0,
+603,México,Jun-2025,Renta,25679.4,4108.7,Rechazado,25.0,Gasto no deducible
+604,Brasil,Dec-2024,Vuelos,48940.8,7830.53,En proceso,,
+605,México,Nov-2024,Alimentos,36744.96,5879.19,En proceso,,
+606,México,Jan-2025,Vuelos,12456.36,1993.02,Aprobado,41.0,
+607,Colombia,Nov-2024,Vuelos,4407.0,705.12,En proceso,,
+608,Colombia,Apr-2025,Material,23676.96,3788.31,Rechazado,58.0,Falta XML válido
+609,Brasil,Mar-2025,Material,34161.69,5465.87,Aprobado,81.0,
+610,Colombia,Mar-2025,Alimentos,50869.76,8139.16,Aprobado,68.0,
+611,Brasil,Apr-2024,Publicidad,10266.68,1642.67,Aprobado,50.0,
+612,Colombia,Nov-2024,Alimentos,48611.76,7777.88,En proceso,,
+613,México,Mar-2025,Publicidad,52191.52,8350.64,Aprobado,75.0,
+614,Brasil,Apr-2024,Vuelos,11589.19,1854.27,Aprobado,63.0,
+615,Brasil,Jan-2025,Renta,51540.88,8246.54,Rechazado,44.0,Factura duplicada
+616,México,Feb-2024,Alimentos,59512.85,9522.06,Aprobado,37.0,
+617,Brasil,Feb-2025,Alimentos,44429.81,7108.77,Aprobado,46.0,
+618,Brasil,Apr-2024,Publicidad,47731.87,7637.1,Rechazado,45.0,Factura duplicada
+619,Colombia,Apr-2025,Vuelos,59681.67,9549.07,Aprobado,74.0,
+620,Brasil,Feb-2025,Vuelos,37512.43,6001.99,Rechazado,45.0,Error en el RFC
+621,México,Mar-2025,Publicidad,20549.52,3287.92,Aprobado,83.0,
+622,Colombia,Mar-2024,Vuelos,50739.26,8118.28,Rechazado,59.0,Factura duplicada
+623,Colombia,Aug-2024,Material,38025.69,6084.11,Rechazado,8.0,Gasto no deducible
+624,México,Apr-2025,Renta,36128.14,5780.5,Aprobado,19.0,
+625,México,Oct-2024,Alimentos,17457.23,2793.16,Aprobado,56.0,
+626,Colombia,Apr-2024,Renta,46111.05,7377.77,Rechazado,15.0,Monto incorrecto
+627,Brasil,Jun-2025,Alimentos,7655.03,1224.8,Rechazado,18.0,Error en el RFC
+628,Colombia,Feb-2024,Material,55684.36,8909.5,Rechazado,42.0,Error en el RFC
+629,México,May-2025,Vuelos,21571.94,3451.51,En proceso,,
+630,Colombia,Jan-2025,Publicidad,10283.16,1645.31,Aprobado,21.0,
+631,México,Apr-2024,Material,28214.89,4514.38,Aprobado,54.0,
+632,Colombia,Nov-2024,Renta,5420.78,867.32,En proceso,,
+633,Brasil,Jul-2024,Publicidad,42023.69,6723.79,Aprobado,26.0,
+634,Colombia,Dec-2024,Vuelos,54454.21,8712.67,Aprobado,89.0,
+635,Colombia,Oct-2024,Material,50723.99,8115.84,Aprobado,44.0,
+636,México,Jul-2024,Publicidad,10260.06,1641.61,Aprobado,75.0,
+637,México,Jan-2025,Material,10197.45,1631.59,Aprobado,84.0,
+638,México,Jul-2024,Material,49365.77,7898.52,En proceso,,
+639,Colombia,May-2025,Vuelos,55682.49,8909.2,Aprobado,50.0,
+640,Brasil,Oct-2024,Alimentos,29258.18,4681.31,Aprobado,76.0,
+641,México,Oct-2024,Publicidad,31441.35,5030.62,En proceso,,
+642,México,Apr-2024,Vuelos,21140.94,3382.55,En proceso,,
+643,Colombia,Apr-2024,Material,53973.11,8635.7,Aprobado,38.0,
+644,México,Jul-2024,Vuelos,39759.47,6361.52,Aprobado,27.0,
+645,Brasil,Jan-2024,Alimentos,19430.34,3108.85,Rechazado,24.0,Gasto no deducible
+646,Brasil,Dec-2024,Publicidad,20030.62,3204.9,Rechazado,51.0,Gasto no deducible
+647,México,Jan-2025,Alimentos,53798.4,8607.74,Rechazado,18.0,Falta XML válido
+648,México,Oct-2024,Renta,3777.14,604.34,En proceso,,
+649,Colombia,Mar-2025,Publicidad,21395.41,3423.27,Rechazado,38.0,Error en el RFC
+650,Brasil,Jan-2025,Alimentos,34598.33,5535.73,Aprobado,58.0,
+651,Brasil,Sep-2024,Material,11448.4,1831.74,Rechazado,58.0,Falta XML válido
+652,México,Sep-2024,Publicidad,8249.63,1319.94,Aprobado,40.0,
+653,Colombia,Mar-2025,Publicidad,49470.75,7915.32,Rechazado,44.0,Factura duplicada
+654,Brasil,Oct-2024,Vuelos,53981.05,8636.97,Rechazado,46.0,Error en el RFC
+655,Brasil,Oct-2024,Material,49945.57,7991.29,Aprobado,67.0,
+656,Colombia,Aug-2024,Renta,54230.91,8676.95,Aprobado,39.0,
+657,Colombia,Apr-2025,Alimentos,34527.38,5524.38,Aprobado,34.0,
+658,Brasil,May-2025,Vuelos,49298.71,7887.79,Aprobado,72.0,
+659,Brasil,May-2024,Alimentos,24890.43,3982.47,Rechazado,23.0,Error en el RFC
+660,Colombia,Apr-2024,Renta,40977.27,6556.36,Aprobado,81.0,
+661,Brasil,Jun-2025,Renta,59363.63,9498.18,Rechazado,32.0,Monto incorrecto
+662,México,Apr-2024,Publicidad,15866.48,2538.64,Aprobado,17.0,
+663,México,Jul-2024,Renta,25224.29,4035.89,Rechazado,35.0,Error en el RFC
+664,Colombia,Oct-2024,Alimentos,30362.7,4858.03,Rechazado,7.0,Factura duplicada
+665,Colombia,Jun-2025,Material,10866.88,1738.7,Rechazado,7.0,Falta XML válido
+666,Colombia,Apr-2024,Material,7619.2,1219.07,Aprobado,26.0,
+667,México,Oct-2024,Publicidad,50294.2,8047.07,En proceso,,
+668,Brasil,Jan-2024,Alimentos,58677.28,9388.36,Aprobado,23.0,
+669,México,Jun-2025,Alimentos,26069.33,4171.09,Aprobado,18.0,
+670,Brasil,May-2024,Renta,7996.04,1279.37,Aprobado,71.0,
+671,México,Mar-2025,Alimentos,6751.27,1080.2,Aprobado,30.0,
+672,Brasil,May-2025,Vuelos,53805.14,8608.82,En proceso,,
+673,México,Mar-2024,Renta,29437.41,4709.99,Aprobado,85.0,
+674,Colombia,Dec-2024,Vuelos,21241.56,3398.65,Rechazado,41.0,Falta XML válido
+675,México,Feb-2024,Publicidad,30158.29,4825.33,Rechazado,36.0,Monto incorrecto
+676,Brasil,Jan-2024,Material,21143.33,3382.93,Aprobado,20.0,
+677,México,May-2025,Publicidad,30875.04,4940.01,Rechazado,24.0,Factura duplicada
+678,México,Apr-2025,Material,51994.71,8319.15,Aprobado,44.0,
+679,México,May-2024,Publicidad,36761.18,5881.79,Aprobado,62.0,
+680,Colombia,Mar-2025,Alimentos,42595.27,6815.24,Aprobado,56.0,
+681,México,Mar-2024,Vuelos,23786.23,3805.8,En proceso,,
+682,Colombia,Jul-2024,Material,45094.84,7215.17,En proceso,,
+683,Colombia,Nov-2024,Renta,40997.17,6559.55,Aprobado,84.0,
+684,México,Oct-2024,Vuelos,9815.03,1570.4,Aprobado,61.0,
+685,México,Sep-2024,Renta,35640.64,5702.5,Rechazado,12.0,Falta XML válido
+686,México,Feb-2025,Vuelos,17634.38,2821.5,Aprobado,13.0,
+687,Brasil,Jan-2025,Vuelos,48833.45,7813.35,En proceso,,
+688,México,Feb-2024,Publicidad,27278.45,4364.55,Aprobado,36.0,
+689,Colombia,Mar-2024,Material,59697.0,9551.52,Aprobado,53.0,
+690,México,Jul-2024,Material,8272.52,1323.6,Rechazado,44.0,Gasto no deducible
+691,Brasil,Jun-2025,Vuelos,47479.83,7596.77,Aprobado,56.0,
+692,México,Mar-2024,Alimentos,41401.0,6624.16,En proceso,,
+693,Brasil,Oct-2024,Alimentos,46747.43,7479.59,En proceso,,
+694,Brasil,Jul-2024,Renta,20529.2,3284.67,Aprobado,53.0,
+695,México,Sep-2024,Renta,31047.11,4967.54,Aprobado,57.0,
+696,Colombia,May-2025,Publicidad,48400.99,7744.16,En proceso,,
+697,Brasil,Nov-2024,Vuelos,16254.86,2600.78,En proceso,,
+698,México,Jul-2024,Renta,15883.89,2541.42,Aprobado,61.0,
+699,México,Feb-2025,Renta,34409.9,5505.58,Rechazado,24.0,Factura duplicada
+700,Colombia,Apr-2024,Vuelos,32843.12,5254.9,Aprobado,77.0,
+701,Brasil,Jun-2024,Publicidad,19088.96,3054.23,Aprobado,20.0,
+702,Brasil,Oct-2024,Renta,19990.31,3198.45,En proceso,,
+703,México,Jul-2024,Publicidad,18837.17,3013.95,Aprobado,86.0,
+704,México,Jan-2025,Material,46976.19,7516.19,En proceso,,
+705,Colombia,Feb-2025,Publicidad,40158.35,6425.34,Aprobado,82.0,
+706,Colombia,Apr-2024,Alimentos,50447.78,8071.64,Rechazado,8.0,Factura duplicada
+707,Brasil,Aug-2024,Alimentos,58601.96,9376.31,Aprobado,85.0,
+708,Brasil,May-2024,Publicidad,30027.36,4804.38,Aprobado,82.0,
+709,México,Jan-2024,Alimentos,6801.55,1088.25,Rechazado,17.0,Monto incorrecto
+710,Brasil,Apr-2024,Material,5741.26,918.6,Aprobado,57.0,
+711,Colombia,Mar-2024,Vuelos,19852.91,3176.47,Aprobado,35.0,
+712,Colombia,Sep-2024,Alimentos,56155.04,8984.81,Aprobado,86.0,
+713,México,Aug-2024,Alimentos,32823.14,5251.7,Aprobado,48.0,
+714,Colombia,Jan-2024,Publicidad,18491.83,2958.69,Rechazado,32.0,Falta XML válido
+715,Colombia,Jun-2024,Material,25752.51,4120.4,Aprobado,67.0,
+716,Colombia,Sep-2024,Vuelos,37119.92,5939.19,Aprobado,28.0,
+717,Colombia,Jul-2024,Publicidad,40218.13,6434.9,Aprobado,86.0,
+718,México,Apr-2024,Publicidad,11773.41,1883.75,Aprobado,86.0,
+719,México,Jan-2025,Material,58690.81,9390.53,Aprobado,67.0,
+720,Brasil,May-2025,Vuelos,34052.02,5448.32,Aprobado,37.0,
+721,Colombia,Feb-2024,Material,10734.23,1717.48,Aprobado,75.0,
+722,Brasil,May-2024,Vuelos,53937.21,8629.95,Rechazado,14.0,Factura duplicada
+723,México,Dec-2024,Material,7254.39,1160.7,Rechazado,26.0,Falta XML válido
+724,México,Aug-2024,Publicidad,54740.92,8758.55,Aprobado,86.0,
+725,México,Jun-2024,Publicidad,59804.24,9568.68,Aprobado,67.0,
+726,México,Aug-2024,Renta,42924.61,6867.94,Aprobado,82.0,
+727,México,Jun-2025,Alimentos,46915.49,7506.48,Aprobado,23.0,
+728,México,Mar-2024,Material,22226.26,3556.2,Aprobado,24.0,
+729,México,Dec-2024,Renta,56669.88,9067.18,Aprobado,42.0,
+730,Colombia,Mar-2024,Alimentos,33193.7,5310.99,Aprobado,26.0,
+731,Brasil,Jun-2024,Material,44746.14,7159.38,Aprobado,33.0,
+732,México,Feb-2024,Vuelos,55674.14,8907.86,Aprobado,39.0,
+733,Colombia,Dec-2024,Alimentos,58585.26,9373.64,Aprobado,71.0,
+734,Colombia,Feb-2024,Publicidad,50492.65,8078.82,Aprobado,22.0,
+735,Brasil,Jun-2024,Renta,20272.0,3243.52,Aprobado,71.0,
+736,México,May-2025,Alimentos,58093.21,9294.91,Aprobado,56.0,
+737,Brasil,Mar-2024,Alimentos,38802.81,6208.45,Aprobado,25.0,
+738,México,Feb-2024,Publicidad,56046.62,8967.46,Aprobado,75.0,
+739,Colombia,Aug-2024,Material,41537.99,6646.08,Aprobado,52.0,
+740,Colombia,Dec-2024,Vuelos,20512.62,3282.02,Aprobado,17.0,
+741,Colombia,Apr-2024,Publicidad,24091.4,3854.62,Aprobado,12.0,
+742,Colombia,May-2024,Vuelos,34376.89,5500.3,Aprobado,21.0,
+743,Brasil,Jan-2025,Material,48030.85,7684.94,Aprobado,25.0,
+744,México,Mar-2025,Alimentos,21125.01,3380.0,Rechazado,18.0,Gasto no deducible
+745,México,Apr-2025,Vuelos,36044.68,5767.15,Aprobado,89.0,
+746,Brasil,Oct-2024,Renta,22700.62,3632.1,Aprobado,68.0,
+747,México,Apr-2025,Renta,49498.86,7919.82,En proceso,,
+748,Colombia,Dec-2024,Publicidad,29603.5,4736.56,Aprobado,58.0,
+749,México,May-2025,Material,7373.2,1179.71,Aprobado,72.0,
+750,Colombia,Apr-2025,Publicidad,12464.99,1994.4,En proceso,,
+751,Brasil,Dec-2024,Publicidad,6482.97,1037.28,Rechazado,47.0,Monto incorrecto
+752,México,Aug-2024,Publicidad,31460.27,5033.64,Aprobado,58.0,
+753,Brasil,Mar-2024,Renta,9061.23,1449.8,Aprobado,60.0,
+754,México,Apr-2025,Renta,9505.98,1520.96,Aprobado,42.0,
+755,Colombia,Jan-2025,Publicidad,56639.75,9062.36,Aprobado,39.0,
+756,Brasil,Aug-2024,Renta,52741.34,8438.61,Aprobado,68.0,
+757,México,May-2024,Material,28768.94,4603.03,Aprobado,85.0,
+758,Colombia,Aug-2024,Publicidad,59190.9,9470.54,Aprobado,24.0,
+759,Brasil,Dec-2024,Renta,3010.63,481.7,En proceso,,
+760,Brasil,Jan-2024,Vuelos,37996.83,6079.49,En proceso,,
+761,México,Jun-2024,Publicidad,38136.41,6101.83,Aprobado,32.0,
+762,México,Jun-2025,Publicidad,29074.25,4651.88,Rechazado,18.0,Gasto no deducible
+763,México,Aug-2024,Material,25626.03,4100.16,Aprobado,54.0,
+764,Colombia,Jul-2024,Alimentos,28956.84,4633.09,En proceso,,
+765,México,Jan-2024,Alimentos,26652.74,4264.44,Aprobado,71.0,
+766,Brasil,Apr-2025,Material,44638.07,7142.09,Aprobado,88.0,
+767,Brasil,Dec-2024,Material,10715.26,1714.44,Aprobado,80.0,
+768,México,Jun-2024,Material,14265.44,2282.47,Aprobado,24.0,
+769,México,Feb-2024,Alimentos,13289.54,2126.33,Aprobado,55.0,
+770,Brasil,Feb-2025,Material,17960.82,2873.73,Rechazado,42.0,Monto incorrecto
+771,Colombia,Apr-2024,Renta,32939.73,5270.36,Rechazado,50.0,Factura duplicada
+772,México,Jan-2024,Publicidad,9338.9,1494.22,Aprobado,65.0,
+773,México,Jun-2025,Publicidad,52485.65,8397.7,Aprobado,53.0,
+774,Brasil,Jan-2025,Vuelos,19949.61,3191.94,Aprobado,84.0,
+775,México,Feb-2024,Vuelos,12264.67,1962.35,En proceso,,
+776,Colombia,Sep-2024,Publicidad,41510.41,6641.67,En proceso,,
+777,Brasil,Feb-2024,Renta,5170.92,827.35,En proceso,,
+778,México,Sep-2024,Alimentos,38338.21,6134.11,En proceso,,
+779,Brasil,Jan-2024,Alimentos,42797.31,6847.57,Aprobado,38.0,
+780,México,Nov-2024,Renta,15250.24,2440.04,Aprobado,71.0,
+781,México,Mar-2024,Alimentos,5391.95,862.71,Aprobado,61.0,
+782,México,Apr-2024,Material,23727.79,3796.45,En proceso,,
+783,Colombia,Jun-2025,Publicidad,8619.87,1379.18,Aprobado,63.0,
+784,Colombia,Jun-2024,Publicidad,9639.24,1542.28,Aprobado,66.0,
+785,Brasil,Mar-2024,Renta,17492.89,2798.86,Rechazado,23.0,Monto incorrecto
+786,México,Nov-2024,Alimentos,19841.67,3174.67,Aprobado,75.0,
+787,México,Mar-2025,Vuelos,33208.31,5313.33,Aprobado,31.0,
+788,Colombia,May-2024,Vuelos,41668.34,6666.93,Rechazado,24.0,Error en el RFC
+789,México,Oct-2024,Alimentos,36787.94,5886.07,Aprobado,42.0,
+790,Colombia,Dec-2024,Vuelos,11456.54,1833.05,Aprobado,81.0,
+791,México,Mar-2025,Renta,12808.9,2049.42,Rechazado,29.0,Falta XML válido
+792,Brasil,May-2025,Renta,53089.85,8494.38,Rechazado,50.0,Falta XML válido
+793,México,Oct-2024,Alimentos,34826.08,5572.17,En proceso,,
+794,México,Jun-2024,Vuelos,52586.46,8413.83,Aprobado,82.0,
+795,Colombia,Jun-2025,Renta,24178.15,3868.5,Aprobado,66.0,
+796,México,Jan-2025,Renta,38020.8,6083.33,Rechazado,27.0,Error en el RFC
+797,México,Mar-2024,Material,32848.81,5255.81,Aprobado,14.0,
+798,Colombia,Oct-2024,Material,21190.04,3390.41,Aprobado,64.0,
+799,Brasil,Feb-2025,Renta,29785.18,4765.63,Rechazado,29.0,Gasto no deducible
+800,Brasil,Jun-2024,Alimentos,31641.98,5062.72,Aprobado,17.0,
+801,Colombia,Mar-2024,Publicidad,14443.95,2311.03,Aprobado,25.0,
+802,Colombia,Apr-2025,Publicidad,20955.59,3352.89,Aprobado,57.0,
+803,Colombia,Jul-2024,Renta,48110.36,7697.66,Aprobado,70.0,
+804,Colombia,Feb-2025,Renta,55199.93,8831.99,Aprobado,24.0,
+805,Colombia,Sep-2024,Renta,23508.26,3761.32,Aprobado,74.0,
+806,Brasil,Mar-2025,Alimentos,20497.42,3279.59,Rechazado,26.0,Error en el RFC
+807,Brasil,Mar-2024,Material,14126.24,2260.2,En proceso,,
+808,Colombia,Feb-2024,Renta,41674.0,6667.84,Aprobado,12.0,
+809,México,Feb-2024,Renta,21416.68,3426.67,Aprobado,63.0,
+810,Colombia,Mar-2024,Vuelos,59301.72,9488.28,Aprobado,23.0,
+811,México,Jun-2025,Alimentos,21564.03,3450.24,Aprobado,45.0,
+812,Colombia,Feb-2025,Renta,25465.75,4074.52,Rechazado,22.0,Factura duplicada
+813,Colombia,Jun-2025,Vuelos,37390.05,5982.41,Rechazado,51.0,Factura duplicada
+814,Brasil,Oct-2024,Publicidad,48696.0,7791.36,Rechazado,45.0,Falta XML válido
+815,México,Feb-2024,Renta,29762.56,4762.01,Aprobado,76.0,
+816,México,Jan-2024,Renta,27091.39,4334.62,Aprobado,19.0,
+817,Brasil,Apr-2024,Vuelos,59751.36,9560.22,Aprobado,58.0,
+818,Brasil,Feb-2025,Alimentos,3598.14,575.7,Aprobado,74.0,
+819,Brasil,Jan-2024,Renta,54018.72,8643.0,Rechazado,31.0,Factura duplicada
+820,Brasil,Feb-2025,Publicidad,11501.03,1840.16,En proceso,,
+821,México,Apr-2025,Renta,47797.74,7647.64,Aprobado,66.0,
+822,México,Feb-2025,Publicidad,38222.1,6115.54,Rechazado,31.0,Falta XML válido
+823,Colombia,Mar-2024,Material,22485.3,3597.65,Aprobado,84.0,
+824,Colombia,Mar-2024,Material,52810.87,8449.74,Aprobado,14.0,
+825,Brasil,Sep-2024,Publicidad,3735.71,597.71,Aprobado,80.0,
+826,Brasil,Jun-2024,Alimentos,15921.37,2547.42,Aprobado,66.0,
+827,Brasil,Jan-2025,Renta,35312.89,5650.06,Aprobado,24.0,
+828,Colombia,Feb-2024,Renta,23037.91,3686.07,Rechazado,39.0,Error en el RFC
+829,Colombia,Aug-2024,Material,37791.52,6046.64,En proceso,,
+830,Colombia,Feb-2024,Publicidad,4374.28,699.88,Aprobado,85.0,
+831,Colombia,Apr-2024,Renta,9638.16,1542.11,Aprobado,39.0,
+832,Colombia,Mar-2025,Renta,10244.49,1639.12,En proceso,,
+833,Colombia,Apr-2024,Alimentos,13789.17,2206.27,Rechazado,24.0,Error en el RFC
+834,Colombia,Jan-2025,Vuelos,29181.89,4669.1,Rechazado,41.0,Error en el RFC
+835,Brasil,Dec-2024,Material,45871.34,7339.41,Aprobado,12.0,
+836,Brasil,Jan-2025,Material,54615.71,8738.51,En proceso,,
+837,Brasil,Feb-2025,Vuelos,50616.23,8098.6,Aprobado,82.0,
+838,Brasil,Jun-2025,Renta,14222.61,2275.62,Rechazado,45.0,Falta XML válido
+839,Colombia,Jun-2024,Alimentos,28145.58,4503.29,Aprobado,48.0,
+840,México,Nov-2024,Alimentos,14366.46,2298.63,Rechazado,30.0,Error en el RFC
+841,Colombia,Feb-2024,Material,18074.89,2891.98,Aprobado,11.0,
+842,México,May-2024,Alimentos,31702.18,5072.35,Aprobado,32.0,
+843,Brasil,Feb-2024,Vuelos,6882.21,1101.15,Aprobado,32.0,
+844,Colombia,Oct-2024,Renta,15435.94,2469.75,Aprobado,25.0,
+845,Brasil,Feb-2024,Vuelos,56316.56,9010.65,Rechazado,13.0,Error en el RFC
+846,Colombia,Nov-2024,Publicidad,29568.63,4730.98,En proceso,,
+847,Brasil,Jun-2025,Material,28387.03,4541.92,En proceso,,
+848,México,Mar-2025,Alimentos,3830.33,612.85,Aprobado,22.0,
+849,México,Sep-2024,Publicidad,17101.79,2736.29,Rechazado,32.0,Gasto no deducible
+850,México,Sep-2024,Alimentos,52378.67,8380.59,Rechazado,31.0,Error en el RFC
+851,Colombia,Mar-2024,Renta,12383.82,1981.41,Aprobado,60.0,
+852,México,Sep-2024,Renta,26662.12,4265.94,Aprobado,73.0,
+853,Colombia,Feb-2025,Renta,3816.86,610.7,Rechazado,56.0,Factura duplicada
+854,México,Jul-2024,Alimentos,30265.12,4842.42,En proceso,,
+855,México,Apr-2025,Publicidad,4198.2,671.71,Rechazado,21.0,Falta XML válido
+856,Colombia,Apr-2025,Renta,49717.74,7954.84,Aprobado,47.0,
+857,Colombia,Jan-2024,Publicidad,50016.66,8002.67,Aprobado,74.0,
+858,México,Apr-2024,Alimentos,47901.3,7664.21,Aprobado,27.0,
+859,Colombia,Apr-2024,Publicidad,19151.75,3064.28,Rechazado,55.0,Gasto no deducible
+860,México,Jul-2024,Alimentos,50722.52,8115.6,Rechazado,13.0,Monto incorrecto
+861,Colombia,Aug-2024,Alimentos,33950.89,5432.14,Aprobado,22.0,
+862,Brasil,May-2025,Material,24307.06,3889.13,En proceso,,
+863,Brasil,May-2024,Alimentos,38643.81,6183.01,Aprobado,49.0,
+864,Brasil,Jul-2024,Alimentos,3703.44,592.55,En proceso,,
+865,Brasil,Apr-2024,Vuelos,11148.77,1783.8,Aprobado,64.0,
+866,Brasil,Jun-2024,Renta,45310.73,7249.72,Aprobado,88.0,
+867,México,Jul-2024,Material,16917.21,2706.75,Aprobado,52.0,
+868,Brasil,Jun-2025,Material,37086.52,5933.84,Aprobado,53.0,
+869,Brasil,May-2024,Material,24950.85,3992.14,Aprobado,77.0,
+870,Brasil,Mar-2024,Vuelos,51723.93,8275.83,Aprobado,42.0,
+871,Brasil,Jul-2024,Alimentos,57287.67,9166.03,Aprobado,33.0,
+872,Colombia,Feb-2025,Renta,53363.19,8538.11,Rechazado,40.0,Falta XML válido
+873,México,Jul-2024,Publicidad,18425.34,2948.05,Aprobado,19.0,
+874,Brasil,May-2024,Alimentos,14067.28,2250.76,Aprobado,29.0,
+875,Brasil,May-2024,Vuelos,30042.79,4806.85,Aprobado,84.0,
+876,Brasil,Feb-2024,Alimentos,3418.05,546.89,Rechazado,16.0,Factura duplicada
+877,México,Jun-2024,Alimentos,4471.14,715.38,Aprobado,71.0,
+878,Colombia,Mar-2025,Vuelos,34537.57,5526.01,En proceso,,
+879,México,Oct-2024,Material,32665.62,5226.5,Rechazado,22.0,Falta XML válido
+880,Colombia,Jul-2024,Material,59691.17,9550.59,Aprobado,72.0,
+881,Brasil,May-2024,Renta,14504.98,2320.8,Aprobado,34.0,
+882,Brasil,Jan-2024,Renta,17711.92,2833.91,Aprobado,21.0,
+883,México,Jan-2025,Material,9471.82,1515.49,Aprobado,30.0,
+884,México,Jun-2025,Publicidad,55299.95,8847.99,En proceso,,
+885,Colombia,Jan-2025,Alimentos,47335.24,7573.64,En proceso,,
+886,Colombia,Jun-2025,Publicidad,49873.33,7979.73,Aprobado,34.0,
+887,México,May-2024,Alimentos,54457.54,8713.21,Aprobado,20.0,
+888,Colombia,Jan-2025,Material,32919.3,5267.09,Rechazado,13.0,Factura duplicada
+889,México,Apr-2024,Renta,28718.01,4594.88,Rechazado,54.0,Factura duplicada
+890,Colombia,May-2025,Renta,21832.31,3493.17,Aprobado,71.0,
+891,México,Mar-2024,Publicidad,36585.23,5853.64,Aprobado,58.0,
+892,México,May-2025,Renta,28893.87,4623.02,Aprobado,23.0,
+893,México,Nov-2024,Material,28739.24,4598.28,Rechazado,5.0,Monto incorrecto
+894,Colombia,Apr-2024,Publicidad,56404.89,9024.78,Aprobado,34.0,
+895,Colombia,Feb-2024,Alimentos,59089.8,9454.37,Aprobado,68.0,
+896,Colombia,Apr-2025,Renta,48399.61,7743.94,En proceso,,
+897,México,Jun-2025,Vuelos,46135.21,7381.63,Rechazado,12.0,Falta XML válido
+898,Colombia,Aug-2024,Renta,41791.82,6686.69,En proceso,,
+899,Colombia,Mar-2024,Alimentos,12466.27,1994.6,Aprobado,78.0,
+900,México,Sep-2024,Publicidad,6369.03,1019.04,Aprobado,14.0,
+901,Brasil,Jun-2024,Alimentos,42371.4,6779.42,En proceso,,
+902,México,Oct-2024,Vuelos,44540.81,7126.53,Aprobado,28.0,
+903,Colombia,Oct-2024,Material,5677.46,908.39,Aprobado,32.0,
+904,México,Jan-2025,Renta,55898.95,8943.83,Aprobado,18.0,
+905,Brasil,May-2025,Publicidad,8195.02,1311.2,Aprobado,59.0,
+906,México,Sep-2024,Material,19296.33,3087.41,Aprobado,25.0,
+907,Colombia,May-2025,Alimentos,41326.22,6612.2,En proceso,,
+908,Brasil,Sep-2024,Publicidad,12682.74,2029.24,En proceso,,
+909,Colombia,Sep-2024,Material,6158.71,985.39,En proceso,,
+910,Brasil,Jan-2024,Publicidad,21875.35,3500.06,Aprobado,42.0,
+911,Brasil,Feb-2024,Vuelos,46660.38,7465.66,Aprobado,11.0,
+912,México,Apr-2025,Vuelos,26579.68,4252.75,Aprobado,23.0,
+913,México,Jan-2024,Renta,40219.46,6435.11,En proceso,,
+914,Colombia,Oct-2024,Renta,36038.29,5766.13,Aprobado,10.0,
+915,México,Jun-2025,Vuelos,4266.45,682.63,Rechazado,30.0,Monto incorrecto
+916,México,Aug-2024,Publicidad,59346.78,9495.48,Rechazado,29.0,Monto incorrecto
+917,Brasil,Nov-2024,Vuelos,5361.4,857.82,Aprobado,25.0,
+918,México,Feb-2024,Renta,58164.76,9306.36,Aprobado,88.0,
+919,Brasil,Aug-2024,Vuelos,34342.26,5494.76,En proceso,,
+920,Brasil,Aug-2024,Vuelos,57900.06,9264.01,En proceso,,
+921,Brasil,May-2025,Publicidad,9540.96,1526.55,Aprobado,56.0,
+922,Colombia,Mar-2025,Material,30953.29,4952.53,Aprobado,53.0,
+923,Colombia,May-2025,Renta,12661.73,2025.88,En proceso,,
+924,Colombia,Jan-2025,Publicidad,5905.57,944.89,Aprobado,89.0,
+925,Brasil,May-2024,Vuelos,38199.16,6111.87,Aprobado,23.0,
+926,Colombia,Dec-2024,Vuelos,14843.65,2374.98,Aprobado,33.0,
+927,Colombia,Jan-2024,Material,36498.73,5839.8,Aprobado,64.0,
+928,México,May-2024,Renta,9404.78,1504.76,Aprobado,24.0,
+929,Colombia,Aug-2024,Renta,21923.23,3507.72,Aprobado,81.0,
+930,Colombia,Jan-2025,Alimentos,47553.06,7608.49,Aprobado,43.0,
+931,Brasil,Aug-2024,Renta,27911.94,4465.91,Aprobado,11.0,
+932,Brasil,Nov-2024,Material,38781.49,6205.04,En proceso,,
+933,Brasil,Jan-2024,Alimentos,39905.1,6384.82,Rechazado,31.0,Falta XML válido
+934,Brasil,Jan-2025,Alimentos,51094.04,8175.05,Rechazado,14.0,Error en el RFC
+935,Brasil,Mar-2024,Vuelos,21520.6,3443.3,Rechazado,39.0,Error en el RFC
+936,Brasil,May-2025,Vuelos,42175.85,6748.14,Aprobado,81.0,
+937,Colombia,May-2024,Renta,57812.1,9249.94,Aprobado,32.0,
+938,Brasil,Aug-2024,Alimentos,44623.87,7139.82,En proceso,,
+939,Brasil,Feb-2025,Vuelos,30922.62,4947.62,Aprobado,77.0,
+940,México,Apr-2024,Material,38950.89,6232.14,Aprobado,23.0,
+941,Colombia,Nov-2024,Vuelos,45161.93,7225.91,Rechazado,57.0,Monto incorrecto
+942,Colombia,Mar-2025,Vuelos,37899.72,6063.96,Aprobado,74.0,
+943,Colombia,Jul-2024,Alimentos,3950.52,632.08,Aprobado,77.0,
+944,Brasil,Nov-2024,Alimentos,14102.09,2256.33,En proceso,,
+945,Brasil,May-2024,Publicidad,49196.69,7871.47,En proceso,,
+946,Brasil,May-2024,Material,18541.09,2966.57,Aprobado,72.0,
+947,México,Aug-2024,Alimentos,44699.04,7151.85,En proceso,,
+948,Brasil,Oct-2024,Renta,24210.85,3873.74,Rechazado,36.0,Gasto no deducible
+949,México,Jun-2024,Material,32747.41,5239.59,Rechazado,37.0,Monto incorrecto
+950,Colombia,Mar-2025,Material,6874.48,1099.92,Aprobado,73.0,
+951,Brasil,Apr-2025,Alimentos,13329.86,2132.78,Aprobado,41.0,
+952,México,May-2025,Material,57560.23,9209.64,Rechazado,56.0,Monto incorrecto
+953,México,Aug-2024,Alimentos,53737.87,8598.06,En proceso,,
+954,Brasil,Aug-2024,Vuelos,40179.68,6428.75,Rechazado,19.0,Monto incorrecto
+955,Colombia,Sep-2024,Publicidad,29199.74,4671.96,Aprobado,22.0,
+956,Colombia,Feb-2024,Vuelos,41518.39,6642.94,Aprobado,75.0,
+957,Colombia,Mar-2025,Alimentos,38260.79,6121.73,Rechazado,23.0,Error en el RFC
+958,México,Jun-2025,Alimentos,35407.48,5665.2,Aprobado,33.0,
+959,México,Mar-2024,Vuelos,6373.09,1019.69,Aprobado,20.0,
+960,México,May-2025,Renta,39069.75,6251.16,Aprobado,68.0,
+961,México,Apr-2024,Renta,46828.44,7492.55,Aprobado,24.0,
+962,Colombia,Apr-2024,Renta,59662.65,9546.02,Rechazado,14.0,Error en el RFC
+963,Brasil,Feb-2025,Alimentos,3631.48,581.04,Rechazado,45.0,Error en el RFC
+964,México,Sep-2024,Material,44619.89,7139.18,Aprobado,36.0,
+965,México,Sep-2024,Alimentos,35591.99,5694.72,Aprobado,69.0,
+966,Colombia,Jun-2025,Material,27740.97,4438.56,Rechazado,13.0,Monto incorrecto
+967,Brasil,Oct-2024,Vuelos,10271.5,1643.44,Aprobado,61.0,
+968,Brasil,Apr-2024,Publicidad,26317.85,4210.86,Aprobado,37.0,
+969,Colombia,Dec-2024,Material,23199.5,3711.92,En proceso,,
+970,Colombia,Aug-2024,Renta,20261.3,3241.81,Aprobado,74.0,
+971,Brasil,Feb-2024,Alimentos,44660.14,7145.62,En proceso,,
+972,México,Jan-2025,Vuelos,42941.35,6870.62,Aprobado,26.0,
+973,Brasil,Apr-2025,Renta,36574.15,5851.86,Aprobado,53.0,
+974,Colombia,Feb-2024,Vuelos,56503.89,9040.62,Aprobado,19.0,
+975,México,Nov-2024,Publicidad,22941.7,3670.67,En proceso,,
+976,México,Oct-2024,Alimentos,16896.71,2703.47,Aprobado,72.0,
+977,Colombia,Mar-2025,Alimentos,40386.49,6461.84,Aprobado,56.0,
+978,Colombia,May-2025,Publicidad,14332.4,2293.18,En proceso,,
+979,Colombia,Aug-2024,Alimentos,20955.6,3352.9,Aprobado,47.0,
+980,Brasil,Jun-2025,Material,15802.34,2528.37,Aprobado,79.0,
+981,Brasil,Sep-2024,Vuelos,6941.75,1110.68,Aprobado,85.0,
+982,México,Aug-2024,Renta,50167.43,8026.79,Rechazado,57.0,Gasto no deducible
+983,Colombia,Feb-2025,Publicidad,17508.81,2801.41,Aprobado,87.0,
+984,México,Jun-2025,Material,29962.57,4794.01,Aprobado,53.0,
+985,México,Dec-2024,Renta,5468.97,875.04,Aprobado,83.0,
+986,México,Feb-2025,Renta,42862.35,6857.98,Aprobado,63.0,
+987,México,May-2025,Publicidad,21841.98,3494.72,En proceso,,
+988,Colombia,Mar-2024,Material,45449.99,7272.0,En proceso,,
+989,México,Jul-2024,Renta,26506.97,4241.12,Rechazado,24.0,Error en el RFC
+990,Colombia,May-2025,Renta,14158.07,2265.29,Rechazado,19.0,Falta XML válido
+991,Colombia,Dec-2024,Material,32250.98,5160.16,Rechazado,35.0,Falta XML válido
+992,Brasil,Sep-2024,Alimentos,10438.76,1670.2,Aprobado,16.0,
+993,Colombia,Mar-2025,Renta,28110.73,4497.72,Rechazado,45.0,Falta XML válido
+994,Brasil,Jun-2025,Vuelos,21086.41,3373.83,Aprobado,19.0,
+995,Colombia,Jan-2025,Material,54981.7,8797.07,Aprobado,19.0,
+996,Colombia,Aug-2024,Renta,6472.94,1035.67,Rechazado,52.0,Factura duplicada
+997,Colombia,Feb-2025,Publicidad,42558.99,6809.44,Aprobado,48.0,
+998,Brasil,Aug-2024,Vuelos,13416.82,2146.69,En proceso,,
+999,Brasil,Feb-2025,Renta,21185.57,3389.69,Aprobado,37.0,
+1000,México,Jul-2024,Vuelos,26684.3,4269.49,Rechazado,34.0,Monto incorrecto
+1001,Brasil,Dec-2024,Vuelos,54756.86,8761.1,Aprobado,46.0,
+1002,Brasil,Nov-2024,Alimentos,16826.96,2692.31,Rechazado,59.0,Falta XML válido
+1003,Brasil,Nov-2024,Vuelos,8204.6,1312.74,Rechazado,7.0,Monto incorrecto
+1004,Brasil,Jan-2025,Alimentos,21165.31,3386.45,Aprobado,52.0,
+1005,México,Jun-2025,Material,8966.53,1434.64,Aprobado,88.0,
+1006,Brasil,Feb-2024,Alimentos,10330.0,1652.8,Aprobado,61.0,
+1007,Colombia,Mar-2025,Publicidad,35709.48,5713.52,Aprobado,65.0,
+1008,Colombia,Jun-2025,Renta,6471.41,1035.43,Rechazado,16.0,Falta XML válido
+1009,Brasil,Mar-2025,Material,4763.06,762.09,En proceso,,
+1010,Brasil,Dec-2024,Material,43721.6,6995.46,Aprobado,77.0,
+1011,Colombia,Jan-2025,Publicidad,23613.88,3778.22,Rechazado,51.0,Gasto no deducible
+1012,Colombia,Nov-2024,Alimentos,10146.39,1623.42,En proceso,,
+1013,México,May-2024,Renta,17455.93,2792.95,Aprobado,18.0,
+1014,Colombia,Jan-2024,Alimentos,39598.93,6335.83,Rechazado,43.0,Monto incorrecto
+1015,Colombia,Mar-2024,Vuelos,18705.58,2992.89,Rechazado,46.0,Falta XML válido
+1016,Brasil,Jul-2024,Alimentos,31187.7,4990.03,Aprobado,32.0,
+1017,Colombia,Dec-2024,Material,9936.63,1589.86,Aprobado,72.0,
+1018,México,Mar-2025,Renta,36521.34,5843.41,Aprobado,70.0,
+1019,Colombia,May-2024,Alimentos,21016.43,3362.63,En proceso,,
+1020,Brasil,Mar-2025,Renta,38737.2,6197.95,En proceso,,
+1021,Brasil,Aug-2024,Renta,49078.51,7852.56,Rechazado,44.0,Error en el RFC
+1022,Colombia,Oct-2024,Vuelos,37863.85,6058.22,Aprobado,53.0,
+1023,Brasil,Apr-2025,Vuelos,19857.61,3177.22,Aprobado,33.0,
+1024,México,Aug-2024,Material,17577.39,2812.38,Aprobado,60.0,
+1025,México,Jan-2024,Publicidad,21662.99,3466.08,Aprobado,67.0,
+1026,Colombia,Dec-2024,Renta,12383.37,1981.34,Rechazado,30.0,Monto incorrecto
+1027,Colombia,May-2024,Publicidad,13326.8,2132.29,En proceso,,
+1028,Colombia,Mar-2024,Material,48069.39,7691.1,En proceso,,
+1029,Brasil,Jan-2024,Renta,24929.76,3988.76,Rechazado,34.0,Factura duplicada
+1030,México,Apr-2024,Renta,27851.73,4456.28,Aprobado,42.0,
+1031,México,Aug-2024,Publicidad,36860.82,5897.73,Aprobado,25.0,
+1032,Brasil,Mar-2024,Alimentos,36610.25,5857.64,Aprobado,31.0,
+1033,México,Oct-2024,Vuelos,6840.48,1094.48,Rechazado,53.0,Error en el RFC
+1034,Colombia,Feb-2024,Alimentos,50397.82,8063.65,Rechazado,54.0,Error en el RFC
+1035,Colombia,Nov-2024,Publicidad,13107.61,2097.22,Aprobado,80.0,
+1036,Colombia,Oct-2024,Vuelos,44215.08,7074.41,Aprobado,81.0,
+1037,México,Feb-2025,Alimentos,47042.25,7526.76,Aprobado,79.0,
+1038,Colombia,Jul-2024,Vuelos,43749.27,6999.88,Aprobado,39.0,
+1039,Brasil,Feb-2024,Renta,36001.73,5760.28,Aprobado,32.0,
+1040,Brasil,Sep-2024,Alimentos,3832.71,613.23,Aprobado,41.0,
+1041,México,Apr-2025,Vuelos,23541.4,3766.62,Aprobado,66.0,
+1042,Brasil,Jan-2025,Vuelos,37475.85,5996.14,En proceso,,
+1043,Brasil,Sep-2024,Vuelos,25084.72,4013.56,Aprobado,18.0,
+1044,México,Apr-2024,Alimentos,52218.35,8354.94,Aprobado,40.0,
+1045,Colombia,Oct-2024,Material,20601.73,3296.28,Aprobado,80.0,
+1046,Colombia,Dec-2024,Alimentos,19731.48,3157.04,Aprobado,18.0,
+1047,Colombia,May-2025,Publicidad,18161.87,2905.9,Aprobado,22.0,
+1048,México,Feb-2025,Alimentos,21968.51,3514.96,Aprobado,67.0,
+1049,Brasil,Feb-2025,Vuelos,34772.08,5563.53,Aprobado,12.0,
+1050,Colombia,Feb-2024,Renta,43299.87,6927.98,Aprobado,44.0,
+1051,Colombia,Nov-2024,Alimentos,40766.37,6522.62,Rechazado,37.0,Factura duplicada
+1052,México,Apr-2025,Alimentos,49039.92,7846.39,Aprobado,30.0,
+1053,Colombia,Jun-2024,Vuelos,53497.1,8559.54,Rechazado,35.0,Error en el RFC
+1054,México,May-2024,Renta,49516.51,7922.64,Aprobado,61.0,
+1055,Brasil,Apr-2024,Renta,4079.89,652.78,Aprobado,43.0,
+1056,México,Mar-2025,Publicidad,44947.32,7191.57,Aprobado,44.0,
+1057,México,Apr-2024,Alimentos,14878.78,2380.6,Aprobado,24.0,
+1058,México,Oct-2024,Renta,10576.9,1692.3,En proceso,,
+1059,México,Mar-2024,Renta,39393.86,6303.02,Rechazado,36.0,Error en el RFC
+1060,Brasil,May-2024,Material,21225.36,3396.06,En proceso,,
+1061,Brasil,Jun-2024,Material,6255.68,1000.91,En proceso,,
+1062,Colombia,Aug-2024,Renta,10844.89,1735.18,Rechazado,10.0,Falta XML válido
+1063,Brasil,Jul-2024,Publicidad,3052.98,488.48,Aprobado,41.0,
+1064,Brasil,Oct-2024,Renta,54483.75,8717.4,Aprobado,61.0,
+1065,Colombia,Jun-2024,Vuelos,4403.23,704.52,En proceso,,
+1066,Brasil,Feb-2025,Alimentos,14938.98,2390.24,Rechazado,23.0,Falta XML válido
+1067,México,Apr-2024,Publicidad,26726.98,4276.32,Aprobado,37.0,
+1068,México,Jan-2025,Vuelos,23324.57,3731.93,Rechazado,35.0,Monto incorrecto
+1069,Colombia,May-2025,Publicidad,54968.37,8794.94,Aprobado,73.0,
+1070,Colombia,Jul-2024,Vuelos,5296.47,847.44,Aprobado,88.0,
+1071,Colombia,Apr-2024,Alimentos,32196.24,5151.4,Aprobado,87.0,
+1072,México,Feb-2025,Alimentos,41787.33,6685.97,Rechazado,23.0,Monto incorrecto
+1073,Brasil,Mar-2024,Material,56106.78,8977.08,En proceso,,
+1074,México,May-2024,Vuelos,38361.16,6137.79,Aprobado,24.0,
+1075,Colombia,Apr-2025,Material,48814.05,7810.25,Aprobado,15.0,
+1076,Brasil,Apr-2024,Vuelos,7772.32,1243.57,Aprobado,82.0,
+1077,Brasil,Feb-2024,Material,24998.55,3999.77,Rechazado,41.0,Monto incorrecto
+1078,México,Jun-2025,Alimentos,24314.99,3890.4,Aprobado,47.0,
+1079,Colombia,May-2025,Publicidad,53518.43,8562.95,Aprobado,35.0,
+1080,México,Feb-2025,Material,11628.16,1860.51,Aprobado,60.0,
+1081,Brasil,Jan-2025,Vuelos,11657.51,1865.2,Aprobado,82.0,
+1082,México,Dec-2024,Vuelos,21727.81,3476.45,Aprobado,62.0,
+1083,México,Jun-2024,Alimentos,6104.56,976.73,Rechazado,10.0,Falta XML válido
+1084,Colombia,Apr-2024,Vuelos,13400.11,2144.02,Aprobado,87.0,
+1085,Colombia,Apr-2025,Renta,58016.95,9282.71,Rechazado,32.0,Monto incorrecto
+1086,Brasil,Jan-2025,Publicidad,27406.48,4385.04,Aprobado,67.0,
+1087,México,Apr-2024,Material,39025.09,6244.01,Aprobado,22.0,
+1088,México,May-2025,Publicidad,44388.34,7102.13,Aprobado,52.0,
+1089,México,Jan-2024,Alimentos,23916.8,3826.69,Rechazado,16.0,Error en el RFC
+1090,Brasil,Jun-2025,Material,11391.94,1822.71,En proceso,,
+1091,Brasil,May-2025,Material,14775.12,2364.02,En proceso,,
+1092,Colombia,Mar-2025,Renta,20856.19,3336.99,Aprobado,60.0,
+1093,Colombia,Nov-2024,Alimentos,39255.9,6280.94,Aprobado,28.0,
+1094,Colombia,Jan-2025,Vuelos,25701.99,4112.32,Rechazado,25.0,Falta XML válido
+1095,México,Jan-2024,Renta,3388.44,542.15,Rechazado,31.0,Monto incorrecto
+1096,México,May-2025,Renta,32834.21,5253.47,Aprobado,33.0,
+1097,Colombia,Jun-2024,Publicidad,55526.26,8884.2,Rechazado,30.0,Error en el RFC
+1098,México,Apr-2024,Publicidad,49288.42,7886.15,Aprobado,54.0,
+1099,Colombia,Apr-2025,Publicidad,50037.05,8005.93,Aprobado,37.0,
+1100,Brasil,Mar-2025,Renta,48318.31,7730.93,Aprobado,38.0,
+1101,Colombia,Mar-2025,Vuelos,21452.66,3432.43,Aprobado,26.0,
+1102,Brasil,Jun-2024,Material,46616.05,7458.57,Aprobado,77.0,
+1103,México,Mar-2025,Publicidad,11160.2,1785.63,Aprobado,53.0,
+1104,Colombia,Feb-2025,Vuelos,40489.82,6478.37,Aprobado,70.0,
+1105,México,Nov-2024,Alimentos,39569.41,6331.11,Aprobado,77.0,
+1106,Brasil,Jul-2024,Publicidad,4457.48,713.2,Aprobado,83.0,
+1107,Brasil,Sep-2024,Material,47914.3,7666.29,Rechazado,29.0,Monto incorrecto
+1108,Brasil,Apr-2025,Alimentos,54485.14,8717.62,Aprobado,76.0,
+1109,México,May-2024,Alimentos,18242.67,2918.83,Aprobado,11.0,
+1110,México,Oct-2024,Material,49306.27,7889.0,Aprobado,58.0,
+1111,México,Jun-2025,Publicidad,7697.14,1231.54,En proceso,,
+1112,México,Mar-2024,Renta,37198.17,5951.71,Aprobado,79.0,
+1113,Brasil,Jan-2025,Material,30681.87,4909.1,Aprobado,35.0,
+1114,Brasil,Nov-2024,Material,34117.64,5458.82,Aprobado,81.0,
+1115,Colombia,May-2025,Material,55793.7,8926.99,Rechazado,39.0,Gasto no deducible
+1116,Colombia,Jan-2025,Alimentos,52664.97,8426.4,Aprobado,36.0,
+1117,México,Jun-2024,Vuelos,47749.77,7639.96,Aprobado,27.0,
+1118,Brasil,May-2025,Renta,18600.81,2976.13,Aprobado,63.0,
+1119,Brasil,Jan-2025,Publicidad,54973.66,8795.79,Aprobado,10.0,
+1120,Brasil,Oct-2024,Publicidad,8557.94,1369.27,Rechazado,52.0,Monto incorrecto
+1121,Colombia,Mar-2024,Vuelos,51639.77,8262.36,En proceso,,
+1122,Colombia,Feb-2025,Material,21705.12,3472.82,Rechazado,43.0,Gasto no deducible
+1123,Brasil,May-2024,Renta,6065.02,970.4,Rechazado,7.0,Monto incorrecto
+1124,Brasil,May-2024,Publicidad,41153.35,6584.54,Aprobado,77.0,
+1125,Brasil,May-2025,Publicidad,16182.96,2589.27,Aprobado,50.0,
+1126,Colombia,Oct-2024,Material,16883.55,2701.37,Rechazado,41.0,Factura duplicada
+1127,Brasil,May-2024,Vuelos,20444.69,3271.15,Aprobado,60.0,
+1128,Brasil,Apr-2024,Renta,6630.03,1060.8,En proceso,,
+1129,México,Jun-2024,Vuelos,13096.25,2095.4,Aprobado,24.0,
+1130,México,Apr-2024,Vuelos,3292.96,526.87,Aprobado,17.0,
+1131,Colombia,Jul-2024,Renta,28388.34,4542.13,Rechazado,42.0,Monto incorrecto
+1132,Brasil,Jul-2024,Renta,7802.56,1248.41,Rechazado,54.0,Falta XML válido
+1133,Brasil,Jun-2025,Publicidad,41911.2,6705.79,Rechazado,23.0,Falta XML válido
+1134,México,Mar-2024,Publicidad,16430.5,2628.88,Aprobado,65.0,
+1135,Colombia,Jan-2024,Renta,56783.73,9085.4,Rechazado,51.0,Gasto no deducible
+1136,México,Apr-2024,Alimentos,52661.34,8425.81,Aprobado,19.0,
+1137,México,Jun-2024,Publicidad,19498.13,3119.7,Aprobado,87.0,
+1138,México,Sep-2024,Alimentos,47643.28,7622.92,En proceso,,
+1139,México,Feb-2025,Renta,48784.96,7805.59,Rechazado,53.0,Falta XML válido
+1140,Brasil,Dec-2024,Publicidad,59234.1,9477.46,Aprobado,50.0,
+1141,Brasil,Apr-2024,Vuelos,37076.88,5932.3,Rechazado,23.0,Error en el RFC
+1142,México,Dec-2024,Renta,7672.05,1227.53,Aprobado,39.0,
+1143,Colombia,Oct-2024,Material,39869.72,6379.16,Aprobado,14.0,
+1144,Colombia,Jul-2024,Alimentos,38623.85,6179.82,Aprobado,80.0,
+1145,Colombia,Mar-2024,Renta,39385.98,6301.76,En proceso,,
+1146,Colombia,Feb-2025,Renta,20507.3,3281.17,Aprobado,40.0,
+1147,México,Oct-2024,Publicidad,52001.74,8320.28,Rechazado,56.0,Factura duplicada
+1148,Brasil,Apr-2025,Publicidad,57689.91,9230.39,Aprobado,32.0,
+1149,Colombia,Apr-2025,Publicidad,15409.61,2465.54,Rechazado,52.0,Factura duplicada
+1150,México,Oct-2024,Material,8024.67,1283.95,Aprobado,49.0,
+1151,Colombia,Jan-2025,Publicidad,14088.5,2254.16,Rechazado,10.0,Error en el RFC
+1152,Colombia,Jun-2024,Renta,49771.47,7963.44,Aprobado,47.0,
+1153,México,Dec-2024,Publicidad,41568.74,6651.0,Rechazado,45.0,Gasto no deducible
+1154,Brasil,Sep-2024,Vuelos,39254.7,6280.75,En proceso,,
+1155,Brasil,Jan-2025,Publicidad,25902.21,4144.35,Rechazado,40.0,Error en el RFC
+1156,México,Apr-2024,Material,35936.19,5749.79,Aprobado,36.0,
+1157,Brasil,Nov-2024,Vuelos,20548.83,3287.81,En proceso,,
+1158,México,Jun-2025,Renta,30200.4,4832.06,Aprobado,84.0,
+1159,México,Nov-2024,Renta,48204.59,7712.73,Rechazado,9.0,Error en el RFC
+1160,México,Apr-2024,Alimentos,58930.77,9428.92,En proceso,,
+1161,Brasil,Jun-2025,Vuelos,56151.87,8984.3,Aprobado,66.0,
+1162,México,Jan-2024,Alimentos,56230.36,8996.86,Aprobado,26.0,
+1163,Colombia,Jul-2024,Vuelos,25926.75,4148.28,Aprobado,80.0,
+1164,Brasil,Jun-2024,Vuelos,29721.02,4755.36,Aprobado,56.0,
+1165,Brasil,Mar-2025,Material,43221.22,6915.4,Rechazado,19.0,Factura duplicada
+1166,Brasil,Jun-2025,Alimentos,55564.94,8890.39,Aprobado,22.0,
+1167,Brasil,Nov-2024,Material,11093.67,1774.99,Aprobado,20.0,
+1168,Colombia,Mar-2025,Vuelos,20341.79,3254.69,Aprobado,33.0,
+1169,Brasil,Apr-2025,Renta,10937.07,1749.93,Aprobado,82.0,
+1170,Brasil,Jul-2024,Vuelos,37884.49,6061.52,Aprobado,13.0,
+1171,México,Oct-2024,Material,20459.16,3273.47,En proceso,,
+1172,Brasil,Dec-2024,Alimentos,21588.15,3454.1,Aprobado,55.0,
+1173,Colombia,Feb-2025,Alimentos,7042.21,1126.75,En proceso,,
+1174,Colombia,May-2024,Material,22938.38,3670.14,Aprobado,27.0,
+1175,Colombia,Jun-2025,Alimentos,52162.3,8345.97,Aprobado,52.0,
+1176,Colombia,May-2024,Publicidad,16285.15,2605.62,Rechazado,20.0,Monto incorrecto
+1177,Brasil,Mar-2024,Renta,42625.69,6820.11,Aprobado,42.0,
+1178,Brasil,May-2024,Renta,38888.82,6222.21,Aprobado,19.0,
+1179,Colombia,May-2025,Renta,52218.62,8354.98,Aprobado,82.0,
+1180,Colombia,Dec-2024,Alimentos,10540.41,1686.47,Aprobado,68.0,
+1181,Brasil,Sep-2024,Alimentos,58722.63,9395.62,Aprobado,40.0,
+1182,Colombia,Jan-2024,Vuelos,36209.83,5793.57,Aprobado,37.0,
+1183,México,Jun-2025,Vuelos,59742.03,9558.72,Aprobado,69.0,
+1184,Colombia,Apr-2024,Renta,54956.34,8793.01,Aprobado,12.0,
+1185,Colombia,Oct-2024,Publicidad,15626.48,2500.24,Aprobado,64.0,
+1186,México,Jul-2024,Vuelos,6201.23,992.2,Aprobado,23.0,
+1187,México,Jan-2024,Vuelos,17571.43,2811.43,Aprobado,67.0,
+1188,Brasil,May-2025,Alimentos,33071.13,5291.38,Aprobado,24.0,
+1189,Brasil,Feb-2024,Publicidad,12780.99,2044.96,En proceso,,
+1190,México,Nov-2024,Renta,12545.21,2007.23,Aprobado,11.0,
+1191,México,Sep-2024,Vuelos,29367.83,4698.85,Rechazado,28.0,Factura duplicada
+1192,Brasil,Jul-2024,Publicidad,4896.27,783.4,Aprobado,87.0,
+1193,Colombia,May-2025,Publicidad,9947.62,1591.62,En proceso,,
+1194,México,May-2025,Renta,26704.1,4272.66,Aprobado,73.0,
+1195,Brasil,Feb-2024,Publicidad,6598.4,1055.74,En proceso,,
+1196,Colombia,Jun-2024,Publicidad,25615.04,4098.41,Rechazado,52.0,Factura duplicada
+1197,México,Feb-2025,Publicidad,30018.36,4802.94,Aprobado,80.0,
+1198,Colombia,Jun-2024,Vuelos,28722.2,4595.55,En proceso,,
+1199,Brasil,Feb-2024,Renta,52542.97,8406.88,Aprobado,33.0,
+1200,México,Jan-2024,Publicidad,33213.56,5314.17,Aprobado,36.0,
+1201,Colombia,Oct-2024,Publicidad,29674.89,4747.98,Rechazado,41.0,Falta XML válido
+1202,México,May-2024,Vuelos,26410.43,4225.67,En proceso,,
+1203,Colombia,Feb-2024,Renta,49604.53,7936.72,Aprobado,48.0,
+1204,Brasil,Apr-2025,Alimentos,54018.23,8642.92,Aprobado,72.0,
+1205,Brasil,Feb-2024,Vuelos,51634.82,8261.57,Rechazado,19.0,Error en el RFC
+1206,México,Oct-2024,Renta,41392.15,6622.74,Rechazado,30.0,Factura duplicada
+1207,Colombia,Feb-2024,Publicidad,10829.62,1732.74,En proceso,,
+1208,México,Apr-2025,Renta,18781.59,3005.05,Rechazado,5.0,Error en el RFC
+1209,México,Apr-2025,Renta,5625.59,900.09,Aprobado,13.0,
+1210,Colombia,Jul-2024,Renta,56056.97,8969.12,En proceso,,
+1211,Colombia,Dec-2024,Alimentos,40665.52,6506.48,Aprobado,38.0,
+1212,Colombia,Mar-2025,Renta,45542.68,7286.83,Aprobado,10.0,
+1213,Brasil,Aug-2024,Alimentos,20759.59,3321.53,Aprobado,59.0,
+1214,México,Jun-2024,Publicidad,51202.25,8192.36,Aprobado,20.0,
+1215,México,Oct-2024,Alimentos,17797.39,2847.58,Aprobado,83.0,
+1216,Brasil,Mar-2024,Publicidad,3093.69,494.99,Rechazado,21.0,Falta XML válido
+1217,Colombia,May-2025,Publicidad,24455.65,3912.9,Aprobado,45.0,
+1218,Brasil,Jul-2024,Alimentos,35533.4,5685.34,Aprobado,65.0,
+1219,Brasil,Apr-2024,Vuelos,30286.18,4845.79,Rechazado,51.0,Error en el RFC
+1220,Brasil,Feb-2025,Material,52138.34,8342.13,Aprobado,30.0,
+1221,México,Mar-2025,Renta,9008.1,1441.3,Aprobado,22.0,
+1222,Brasil,Aug-2024,Material,34567.94,5530.87,Aprobado,18.0,
+1223,México,Mar-2025,Renta,32239.82,5158.37,En proceso,,
+1224,México,Feb-2025,Renta,19039.4,3046.3,Aprobado,20.0,
+1225,México,Sep-2024,Publicidad,49867.0,7978.72,Aprobado,84.0,
+1226,Colombia,Aug-2024,Renta,45912.37,7345.98,Aprobado,79.0,
+1227,México,May-2025,Renta,44772.97,7163.68,Aprobado,10.0,
+1228,México,Feb-2024,Alimentos,52942.97,8470.88,Aprobado,79.0,
+1229,Colombia,Mar-2024,Material,44198.72,7071.8,Aprobado,86.0,
+1230,México,Aug-2024,Alimentos,16214.95,2594.39,Aprobado,65.0,
+1231,Brasil,Dec-2024,Renta,43217.07,6914.73,En proceso,,
+1232,Brasil,Jan-2024,Publicidad,20539.06,3286.25,Aprobado,40.0,
+1233,México,Oct-2024,Alimentos,16803.96,2688.63,Aprobado,46.0,
+1234,Colombia,Mar-2024,Alimentos,7161.2,1145.79,Aprobado,56.0,
+1235,Brasil,Jun-2024,Vuelos,45409.63,7265.54,Aprobado,87.0,
+1236,Colombia,Jul-2024,Renta,43527.05,6964.33,Rechazado,51.0,Factura duplicada
+1237,Colombia,Jun-2025,Publicidad,16366.47,2618.64,Aprobado,78.0,
+1238,Brasil,Nov-2024,Alimentos,45714.6,7314.34,Aprobado,67.0,
+1239,Colombia,May-2024,Alimentos,55316.93,8850.71,Rechazado,40.0,Error en el RFC
+1240,Brasil,Nov-2024,Publicidad,9157.65,1465.22,Aprobado,41.0,
+1241,Colombia,Dec-2024,Renta,16260.29,2601.65,Aprobado,73.0,
+1242,Brasil,Oct-2024,Vuelos,45764.87,7322.38,Aprobado,80.0,
+1243,México,Aug-2024,Alimentos,18646.88,2983.5,Aprobado,51.0,
+1244,Brasil,Sep-2024,Vuelos,38605.85,6176.94,Aprobado,57.0,
+1245,Brasil,Apr-2024,Material,7626.36,1220.22,Aprobado,83.0,
+1246,Brasil,May-2024,Renta,28775.54,4604.09,Aprobado,39.0,
+1247,Brasil,Aug-2024,Material,45128.21,7220.51,En proceso,,
+1248,Colombia,Sep-2024,Material,42131.29,6741.01,Aprobado,30.0,
+1249,México,Mar-2025,Material,49459.11,7913.46,Aprobado,69.0,
+1250,Brasil,Mar-2025,Renta,53014.77,8482.36,Aprobado,22.0,
+1251,Colombia,Apr-2025,Renta,47071.46,7531.43,Aprobado,10.0,
+1252,México,Feb-2025,Publicidad,41280.5,6604.88,Aprobado,74.0,
+1253,México,Aug-2024,Vuelos,4808.18,769.31,En proceso,,
+1254,México,Jun-2025,Vuelos,33493.1,5358.9,Rechazado,51.0,Falta XML válido
+1255,México,Oct-2024,Publicidad,5148.77,823.8,En proceso,,
+1256,Brasil,Jun-2024,Publicidad,49059.87,7849.58,En proceso,,
+1257,Brasil,Dec-2024,Material,21281.3,3405.01,Aprobado,42.0,
+1258,Colombia,Feb-2024,Publicidad,35058.47,5609.36,Aprobado,47.0,
+1259,Colombia,Jul-2024,Alimentos,18928.38,3028.54,Aprobado,34.0,
+1260,Colombia,Apr-2025,Vuelos,47602.51,7616.4,Aprobado,35.0,
+1261,México,Mar-2024,Publicidad,53530.64,8564.9,En proceso,,
+1262,México,Jan-2025,Alimentos,25722.62,4115.62,Aprobado,86.0,
+1263,Brasil,Mar-2024,Alimentos,52186.58,8349.85,En proceso,,
+1264,México,Jun-2025,Alimentos,18223.28,2915.72,Aprobado,68.0,
+1265,México,Nov-2024,Alimentos,33475.67,5356.11,En proceso,,
+1266,México,Aug-2024,Material,51949.4,8311.9,En proceso,,
+1267,Colombia,Jun-2024,Alimentos,21575.24,3452.04,Rechazado,32.0,Monto incorrecto
+1268,Colombia,Jan-2024,Material,57380.41,9180.87,Rechazado,37.0,Error en el RFC
+1269,Brasil,Jan-2024,Material,9947.13,1591.54,Aprobado,50.0,
+1270,México,Aug-2024,Alimentos,4041.68,646.67,Rechazado,34.0,Factura duplicada
+1271,México,May-2024,Vuelos,54535.72,8725.72,En proceso,,
+1272,Brasil,Apr-2025,Alimentos,6912.97,1106.08,Rechazado,53.0,Falta XML válido
+1273,México,Nov-2024,Alimentos,59537.68,9526.03,Rechazado,52.0,Factura duplicada
+1274,México,May-2024,Alimentos,57229.62,9156.74,Rechazado,12.0,Factura duplicada
+1275,Colombia,Apr-2024,Vuelos,10810.19,1729.63,Rechazado,53.0,Error en el RFC
+1276,Brasil,Jun-2024,Renta,33642.32,5382.77,Aprobado,56.0,
+1277,Brasil,Feb-2025,Renta,13540.46,2166.47,Rechazado,5.0,Factura duplicada
+1278,Brasil,Sep-2024,Material,27404.84,4384.77,Aprobado,21.0,
+1279,Brasil,Dec-2024,Material,6501.23,1040.2,Aprobado,78.0,
+1280,Colombia,Nov-2024,Vuelos,15763.7,2522.19,Aprobado,15.0,
+1281,Colombia,Feb-2025,Publicidad,23706.55,3793.05,Aprobado,74.0,
+1282,México,Apr-2025,Renta,28002.91,4480.47,Aprobado,34.0,
+1283,México,Jan-2024,Material,58717.29,9394.77,Aprobado,10.0,
+1284,México,Jan-2025,Renta,49048.34,7847.73,Aprobado,41.0,
+1285,México,Jan-2025,Vuelos,45032.37,7205.18,Aprobado,12.0,
+1286,Colombia,Feb-2024,Vuelos,33611.35,5377.82,Aprobado,58.0,
+1287,Brasil,Apr-2024,Publicidad,50879.87,8140.78,Rechazado,23.0,Error en el RFC
+1288,Colombia,Jun-2024,Publicidad,22341.4,3574.62,En proceso,,
+1289,México,May-2024,Vuelos,43407.25,6945.16,Rechazado,47.0,Monto incorrecto
+1290,Colombia,Mar-2024,Material,59645.69,9543.31,En proceso,,
+1291,Brasil,Jan-2024,Renta,20933.85,3349.42,Rechazado,33.0,Factura duplicada
+1292,Brasil,Apr-2024,Alimentos,41419.0,6627.04,Aprobado,59.0,
+1293,Colombia,Feb-2024,Publicidad,51125.95,8180.15,Rechazado,6.0,Factura duplicada
+1294,Colombia,May-2024,Alimentos,55201.03,8832.16,Rechazado,13.0,Factura duplicada
+1295,Colombia,Mar-2024,Material,43922.16,7027.55,Aprobado,65.0,
+1296,México,Sep-2024,Publicidad,19165.65,3066.5,Aprobado,26.0,
+1297,Colombia,Jun-2024,Alimentos,21598.08,3455.69,Rechazado,50.0,Gasto no deducible
+1298,Colombia,Jun-2025,Material,4183.21,669.31,Aprobado,45.0,
+1299,Colombia,Jun-2024,Renta,46370.5,7419.28,Rechazado,21.0,Gasto no deducible
+1300,Brasil,Dec-2024,Material,5436.16,869.79,Aprobado,58.0,
+1301,Brasil,Nov-2024,Publicidad,52285.18,8365.63,Aprobado,85.0,
+1302,México,Feb-2024,Vuelos,9763.66,1562.19,Aprobado,69.0,
+1303,México,Mar-2025,Renta,12796.96,2047.51,Aprobado,29.0,
+1304,Brasil,Dec-2024,Alimentos,30162.01,4825.92,Aprobado,59.0,
+1305,Brasil,Dec-2024,Publicidad,45059.18,7209.47,Rechazado,7.0,Falta XML válido
+1306,Brasil,Sep-2024,Vuelos,10923.13,1747.7,Rechazado,47.0,Gasto no deducible
+1307,Colombia,Feb-2024,Material,28084.05,4493.45,En proceso,,
+1308,Colombia,Mar-2024,Vuelos,30522.52,4883.6,Aprobado,66.0,
+1309,Brasil,Dec-2024,Publicidad,15100.28,2416.04,Rechazado,54.0,Falta XML válido
+1310,Colombia,Apr-2025,Publicidad,9586.83,1533.89,Aprobado,77.0,
+1311,Colombia,Jan-2024,Vuelos,50675.99,8108.16,Aprobado,59.0,
+1312,México,Mar-2024,Material,31640.54,5062.49,Aprobado,46.0,
+1313,Brasil,Feb-2024,Vuelos,3819.73,611.16,Aprobado,55.0,
+1314,Brasil,Sep-2024,Publicidad,48769.93,7803.19,Aprobado,51.0,
+1315,Colombia,Mar-2025,Publicidad,58905.25,9424.84,Aprobado,24.0,
+1316,Brasil,Jun-2025,Alimentos,37537.79,6006.05,Rechazado,37.0,Gasto no deducible
+1317,México,Nov-2024,Alimentos,31711.38,5073.82,Rechazado,20.0,Monto incorrecto
+1318,México,Apr-2025,Renta,53069.7,8491.15,Aprobado,20.0,
+1319,México,May-2025,Publicidad,57293.46,9166.95,Aprobado,29.0,
+1320,Brasil,May-2024,Alimentos,46008.6,7361.38,Aprobado,33.0,
+1321,Brasil,Dec-2024,Vuelos,28390.82,4542.53,Aprobado,73.0,
+1322,Brasil,Nov-2024,Material,36756.62,5881.06,Rechazado,58.0,Falta XML válido
+1323,Brasil,Mar-2025,Vuelos,42953.32,6872.53,Aprobado,89.0,
+1324,Brasil,Mar-2024,Material,14073.59,2251.77,Rechazado,34.0,Gasto no deducible
+1325,México,Jan-2024,Alimentos,28490.46,4558.47,En proceso,,
+1326,Colombia,Apr-2025,Renta,50299.81,8047.97,Aprobado,74.0,
+1327,México,Feb-2024,Vuelos,40319.34,6451.09,En proceso,,
+1328,Brasil,Feb-2024,Vuelos,26438.63,4230.18,Aprobado,82.0,
+1329,México,Mar-2024,Vuelos,40811.66,6529.87,Aprobado,85.0,
+1330,Brasil,Aug-2024,Material,9738.68,1558.19,Aprobado,26.0,
+1331,Brasil,Mar-2025,Alimentos,25885.36,4141.66,Aprobado,70.0,
+1332,México,Jul-2024,Vuelos,48208.33,7713.33,Aprobado,24.0,
+1333,Brasil,Jun-2024,Vuelos,15569.0,2491.04,Aprobado,60.0,
+1334,Colombia,Sep-2024,Renta,13599.81,2175.97,Rechazado,31.0,Monto incorrecto
+1335,Brasil,Jan-2024,Renta,57196.66,9151.47,En proceso,,
+1336,Colombia,Aug-2024,Alimentos,14964.16,2394.27,Rechazado,26.0,Gasto no deducible
+1337,Colombia,Mar-2024,Alimentos,17872.36,2859.58,Aprobado,83.0,
+1338,Brasil,Apr-2024,Publicidad,58268.11,9322.9,Rechazado,35.0,Error en el RFC
+1339,México,Mar-2025,Renta,44878.39,7180.54,Rechazado,31.0,Error en el RFC
+1340,Colombia,Jun-2024,Publicidad,42877.0,6860.32,Rechazado,16.0,Monto incorrecto
+1341,México,Mar-2025,Material,51616.8,8258.69,Rechazado,50.0,Factura duplicada
+1342,Colombia,Mar-2024,Publicidad,9601.92,1536.31,En proceso,,
+1343,Brasil,Feb-2025,Vuelos,43239.51,6918.32,Aprobado,40.0,
+1344,Brasil,Feb-2025,Publicidad,31710.25,5073.64,Rechazado,36.0,Factura duplicada
+1345,Colombia,Apr-2024,Alimentos,50261.59,8041.85,Aprobado,41.0,
+1346,Brasil,Dec-2024,Material,31964.08,5114.25,En proceso,,
+1347,Colombia,May-2025,Vuelos,38353.76,6136.6,Aprobado,62.0,
+1348,Brasil,Jul-2024,Publicidad,30231.3,4837.01,Aprobado,70.0,
+1349,México,Sep-2024,Material,30255.06,4840.81,Aprobado,55.0,
+1350,Brasil,Mar-2024,Material,46774.29,7483.89,Rechazado,25.0,Error en el RFC
+1351,México,Jan-2025,Vuelos,38828.28,6212.52,Aprobado,83.0,
+1352,Brasil,Mar-2025,Publicidad,39096.0,6255.36,Aprobado,89.0,
+1353,México,Jun-2025,Material,28666.1,4586.58,En proceso,,
+1354,Brasil,Jan-2024,Material,33273.24,5323.72,En proceso,,
+1355,México,Jun-2024,Renta,45505.91,7280.95,Aprobado,16.0,
+1356,Colombia,Feb-2024,Material,50078.63,8012.58,Aprobado,13.0,
+1357,Colombia,Feb-2025,Renta,42704.0,6832.64,Rechazado,31.0,Error en el RFC
+1358,México,Jun-2024,Publicidad,55672.16,8907.55,En proceso,,
+1359,Brasil,Feb-2025,Publicidad,49758.47,7961.36,Aprobado,61.0,
+1360,México,Apr-2024,Publicidad,35026.24,5604.2,Rechazado,59.0,Factura duplicada
+1361,Brasil,Aug-2024,Alimentos,41270.15,6603.22,Aprobado,40.0,
+1362,Colombia,Mar-2024,Publicidad,55799.57,8927.93,Rechazado,15.0,Falta XML válido
+1363,Brasil,Feb-2025,Material,38292.58,6126.81,Rechazado,52.0,Factura duplicada
+1364,Colombia,May-2025,Vuelos,50014.0,8002.24,Aprobado,45.0,
+1365,Brasil,Aug-2024,Renta,42262.2,6761.95,Aprobado,63.0,
+1366,Brasil,Feb-2025,Alimentos,34460.37,5513.66,En proceso,,
+1367,Brasil,Jun-2024,Publicidad,16784.78,2685.56,Rechazado,58.0,Gasto no deducible
+1368,México,Apr-2025,Publicidad,27281.86,4365.1,Aprobado,26.0,
+1369,México,Feb-2025,Vuelos,58161.34,9305.81,Rechazado,49.0,Falta XML válido
+1370,Colombia,Mar-2024,Vuelos,40492.63,6478.82,Rechazado,15.0,Gasto no deducible
+1371,Colombia,Oct-2024,Alimentos,35170.54,5627.29,Aprobado,39.0,
+1372,México,Sep-2024,Renta,56178.53,8988.56,Rechazado,39.0,Error en el RFC
+1373,Colombia,Jan-2025,Publicidad,36431.17,5828.99,Aprobado,31.0,
+1374,México,Jul-2024,Alimentos,32986.7,5277.87,En proceso,,
+1375,Brasil,Feb-2025,Material,46280.72,7404.92,Aprobado,52.0,
+1376,Colombia,Sep-2024,Material,43621.94,6979.51,Aprobado,36.0,
+1377,Colombia,Mar-2025,Alimentos,14010.12,2241.62,Aprobado,46.0,
+1378,México,Feb-2025,Publicidad,29864.57,4778.33,Rechazado,50.0,Falta XML válido
+1379,Colombia,Jun-2024,Alimentos,29933.38,4789.34,Rechazado,53.0,Gasto no deducible
+1380,Colombia,Apr-2024,Publicidad,24558.8,3929.41,En proceso,,
+1381,Brasil,Aug-2024,Vuelos,32485.73,5197.72,Rechazado,39.0,Gasto no deducible
+1382,Colombia,May-2025,Alimentos,26547.12,4247.54,Aprobado,13.0,
+1383,Brasil,Sep-2024,Publicidad,14362.69,2298.03,En proceso,,
+1384,México,Jan-2024,Alimentos,26504.89,4240.78,Aprobado,89.0,
+1385,Colombia,Feb-2025,Alimentos,7119.79,1139.17,Rechazado,20.0,Falta XML válido
+1386,Brasil,Nov-2024,Publicidad,35819.79,5731.17,Aprobado,35.0,
+1387,México,Mar-2024,Publicidad,51658.31,8265.33,Rechazado,40.0,Monto incorrecto
+1388,Colombia,Sep-2024,Renta,44341.36,7094.62,Rechazado,23.0,Factura duplicada
+1389,México,Feb-2025,Alimentos,23542.46,3766.79,Rechazado,21.0,Gasto no deducible
+1390,Colombia,Sep-2024,Material,7963.06,1274.09,Aprobado,54.0,
+1391,México,Apr-2024,Alimentos,14522.52,2323.6,Aprobado,35.0,
+1392,México,Apr-2024,Alimentos,34092.95,5454.87,Aprobado,31.0,
+1393,Brasil,Aug-2024,Publicidad,14802.25,2368.36,Rechazado,59.0,Factura duplicada
+1394,México,Feb-2024,Alimentos,34006.47,5441.04,Aprobado,67.0,
+1395,Colombia,Sep-2024,Alimentos,16201.14,2592.18,En proceso,,
+1396,Colombia,Feb-2025,Material,51388.66,8222.19,Aprobado,72.0,
+1397,Brasil,Sep-2024,Publicidad,25644.47,4103.12,Aprobado,37.0,
+1398,Colombia,Apr-2025,Alimentos,16996.39,2719.42,Rechazado,5.0,Factura duplicada
+1399,Colombia,May-2025,Vuelos,49302.59,7888.41,Aprobado,53.0,
+1400,Colombia,Apr-2025,Renta,22541.82,3606.69,En proceso,,
+1401,México,Dec-2024,Material,9354.8,1496.77,Rechazado,40.0,Error en el RFC
+1402,México,Mar-2024,Alimentos,35513.34,5682.13,Aprobado,52.0,
+1403,Colombia,Nov-2024,Vuelos,36149.16,5783.87,Aprobado,46.0,
+1404,Brasil,Feb-2025,Alimentos,43737.65,6998.02,Aprobado,75.0,
+1405,México,Jun-2025,Alimentos,16692.51,2670.8,Aprobado,26.0,
+1406,Brasil,May-2024,Publicidad,28294.97,4527.2,Rechazado,44.0,Factura duplicada
+1407,Colombia,Apr-2025,Publicidad,19094.97,3055.2,Aprobado,47.0,
+1408,Colombia,May-2024,Publicidad,7614.36,1218.3,Aprobado,70.0,
+1409,México,Mar-2024,Vuelos,52966.99,8474.72,Aprobado,18.0,
+1410,Colombia,Dec-2024,Alimentos,44545.58,7127.29,Aprobado,86.0,
+1411,México,Jan-2024,Renta,20183.39,3229.34,Aprobado,84.0,
+1412,Colombia,Sep-2024,Material,37164.26,5946.28,En proceso,,
+1413,Colombia,Sep-2024,Publicidad,14472.04,2315.53,Rechazado,20.0,Gasto no deducible
+1414,México,Apr-2024,Publicidad,53743.49,8598.96,Rechazado,20.0,Error en el RFC
+1415,México,Mar-2024,Alimentos,9549.66,1527.95,Rechazado,6.0,Falta XML válido
+1416,México,May-2025,Alimentos,3218.72,515.0,Aprobado,81.0,
+1417,Colombia,Feb-2024,Vuelos,31614.47,5058.32,En proceso,,
+1418,Colombia,Jan-2024,Vuelos,36238.29,5798.13,Aprobado,52.0,
+1419,Brasil,Aug-2024,Publicidad,36001.02,5760.16,Aprobado,51.0,
+1420,México,Jan-2025,Alimentos,6107.18,977.15,Aprobado,86.0,
+1421,Colombia,Mar-2025,Renta,20900.5,3344.08,Aprobado,66.0,
+1422,Colombia,Aug-2024,Material,31454.34,5032.69,Rechazado,21.0,Gasto no deducible
+1423,México,Dec-2024,Alimentos,15345.01,2455.2,Aprobado,76.0,
+1424,Brasil,Dec-2024,Alimentos,52739.68,8438.35,Rechazado,34.0,Error en el RFC
+1425,México,Feb-2025,Vuelos,7965.23,1274.44,Aprobado,22.0,
+1426,Brasil,Mar-2025,Material,30780.91,4924.95,Aprobado,28.0,
+1427,Colombia,Mar-2025,Publicidad,42410.72,6785.72,Rechazado,11.0,Error en el RFC
+1428,Brasil,Sep-2024,Alimentos,17919.81,2867.17,Aprobado,18.0,
+1429,Colombia,Aug-2024,Publicidad,38581.72,6173.08,Aprobado,63.0,
+1430,México,Jun-2024,Alimentos,50274.95,8043.99,Aprobado,70.0,
+1431,México,Apr-2024,Publicidad,13849.21,2215.87,Rechazado,27.0,Factura duplicada
+1432,México,Jul-2024,Material,55281.57,8845.05,Rechazado,6.0,Falta XML válido
+1433,Brasil,Apr-2024,Vuelos,34552.84,5528.45,Aprobado,59.0,
+1434,Colombia,Dec-2024,Material,20056.22,3209.0,En proceso,,
+1435,México,Jan-2025,Renta,27558.92,4409.43,En proceso,,
+1436,México,Mar-2024,Vuelos,20794.94,3327.19,Rechazado,54.0,Gasto no deducible
+1437,Colombia,Dec-2024,Material,44331.34,7093.01,Rechazado,15.0,Gasto no deducible
+1438,México,Feb-2024,Renta,48389.14,7742.26,Aprobado,40.0,
+1439,Colombia,Feb-2024,Alimentos,50477.43,8076.39,Rechazado,37.0,Factura duplicada
+1440,Colombia,Sep-2024,Alimentos,59188.79,9470.21,Aprobado,87.0,
+1441,Colombia,Jan-2024,Publicidad,48103.2,7696.51,Aprobado,89.0,
+1442,Colombia,Aug-2024,Vuelos,37278.89,5964.62,En proceso,,
+1443,Colombia,Jun-2024,Alimentos,22335.56,3573.69,Rechazado,15.0,Falta XML válido
+1444,Brasil,Jun-2024,Vuelos,34041.94,5446.71,Aprobado,42.0,
+1445,México,Jun-2025,Alimentos,5340.89,854.54,Aprobado,16.0,
+1446,Brasil,May-2025,Publicidad,45455.03,7272.8,Rechazado,35.0,Gasto no deducible
+1447,México,Dec-2024,Material,28419.47,4547.12,Aprobado,57.0,
+1448,Brasil,Jun-2024,Publicidad,4141.32,662.61,Aprobado,56.0,
+1449,Colombia,Aug-2024,Renta,6562.9,1050.06,Aprobado,87.0,
+1450,México,Oct-2024,Alimentos,25085.59,4013.69,Aprobado,62.0,
+1451,México,Jan-2024,Renta,36255.03,5800.8,Rechazado,47.0,Falta XML válido
+1452,Brasil,Jan-2025,Renta,29459.63,4713.54,Aprobado,89.0,
+1453,Brasil,May-2025,Vuelos,38294.65,6127.14,Rechazado,23.0,Gasto no deducible
+1454,México,Mar-2024,Alimentos,30376.77,4860.28,Aprobado,15.0,
+1455,Brasil,Aug-2024,Renta,40717.12,6514.74,Rechazado,47.0,Factura duplicada
+1456,Brasil,Feb-2025,Material,15490.19,2478.43,En proceso,,
+1457,Brasil,Mar-2024,Renta,9432.06,1509.13,Rechazado,53.0,Monto incorrecto
+1458,Colombia,Apr-2025,Material,36996.74,5919.48,En proceso,,
+1459,Colombia,Jan-2025,Vuelos,30627.3,4900.37,En proceso,,
+1460,Brasil,May-2025,Renta,4531.46,725.03,Aprobado,82.0,
+1461,Brasil,Jan-2025,Publicidad,24687.47,3950.0,Rechazado,54.0,Gasto no deducible
+1462,Colombia,Jun-2024,Vuelos,9049.16,1447.87,En proceso,,
+1463,Colombia,May-2025,Material,33287.34,5325.97,Aprobado,21.0,
+1464,México,Feb-2025,Vuelos,25559.33,4089.49,Aprobado,32.0,
+1465,México,May-2025,Renta,37949.66,6071.95,En proceso,,
+1466,Colombia,Aug-2024,Alimentos,48919.33,7827.09,Rechazado,58.0,Error en el RFC
+1467,Brasil,Nov-2024,Alimentos,20081.11,3212.98,Aprobado,78.0,
+1468,Brasil,Jan-2024,Material,57839.82,9254.37,Aprobado,68.0,
+1469,Brasil,Jul-2024,Material,33531.17,5364.99,Rechazado,40.0,Error en el RFC
+1470,Brasil,May-2025,Alimentos,38242.58,6118.81,Aprobado,12.0,
+1471,México,Oct-2024,Material,41798.33,6687.73,Rechazado,28.0,Monto incorrecto
+1472,Colombia,Nov-2024,Vuelos,41003.7,6560.59,Rechazado,59.0,Gasto no deducible
+1473,Brasil,Sep-2024,Publicidad,32125.33,5140.05,Rechazado,21.0,Error en el RFC
+1474,México,Sep-2024,Publicidad,27439.56,4390.33,Aprobado,48.0,
+1475,Brasil,May-2024,Vuelos,6065.57,970.49,Rechazado,30.0,Error en el RFC
+1476,Colombia,May-2025,Publicidad,4258.89,681.42,Rechazado,8.0,Gasto no deducible
+1477,México,Sep-2024,Renta,23403.79,3744.61,Rechazado,59.0,Falta XML válido
+1478,Colombia,May-2025,Vuelos,22018.67,3522.99,Aprobado,54.0,
+1479,Colombia,Jul-2024,Material,25098.62,4015.78,Aprobado,85.0,
+1480,México,Sep-2024,Vuelos,10886.99,1741.92,En proceso,,
+1481,México,Jul-2024,Alimentos,45075.59,7212.09,Aprobado,10.0,
+1482,México,Jan-2025,Material,51846.97,8295.52,Aprobado,30.0,
+1483,México,Nov-2024,Alimentos,56506.73,9041.08,Aprobado,30.0,
+1484,México,Feb-2025,Material,31064.65,4970.34,Rechazado,56.0,Gasto no deducible
+1485,México,Nov-2024,Publicidad,42949.34,6871.89,Aprobado,52.0,
+1486,México,Jan-2025,Vuelos,51766.41,8282.63,Aprobado,61.0,
+1487,Brasil,Feb-2025,Renta,26842.59,4294.81,Aprobado,76.0,
+1488,Colombia,Jan-2025,Material,20636.53,3301.84,Rechazado,53.0,Falta XML válido
+1489,México,Jan-2024,Material,56393.3,9022.93,Aprobado,53.0,
+1490,Brasil,Aug-2024,Alimentos,32393.56,5182.97,Aprobado,41.0,
+1491,Brasil,Dec-2024,Publicidad,31343.47,5014.96,Aprobado,19.0,
+1492,Brasil,Dec-2024,Alimentos,13169.72,2107.16,En proceso,,
+1493,Colombia,Aug-2024,Alimentos,9164.84,1466.37,Aprobado,73.0,
+1494,México,Aug-2024,Publicidad,51000.09,8160.01,Aprobado,88.0,
+1495,Brasil,Jan-2025,Renta,38005.59,6080.89,Aprobado,78.0,
+1496,Colombia,Dec-2024,Alimentos,21572.0,3451.52,En proceso,,
+1497,Colombia,Apr-2025,Alimentos,13928.96,2228.63,Rechazado,8.0,Monto incorrecto
+1498,Colombia,Jan-2024,Material,34663.34,5546.13,En proceso,,
+1499,Brasil,Jan-2025,Publicidad,36283.4,5805.34,Rechazado,32.0,Factura duplicada
+1500,México,Jul-2024,Vuelos,14798.64,2367.78,Aprobado,62.0,
